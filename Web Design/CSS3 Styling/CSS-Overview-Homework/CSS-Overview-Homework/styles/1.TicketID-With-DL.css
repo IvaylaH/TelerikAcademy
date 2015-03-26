@@ -1,0 +1,77 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: left;
+}
+/*setting the dimensions of the ticket*/
+#ticket{
+    width:400px;
+    height:250px;
+    background-color: #595959;
+}
+/*formating the title of the ticket*/
+#title{
+    font-size:21px;
+    font-weight:normal;
+    color:#b7b2aa;
+    padding: 9px 5px;
+}
+.genInfo{
+    font-style:italic;
+    font-weight:bold;
+    color:#e4dbd3;
+    height:30px;
+    float: left;
+    clear: left;
+    height:30px;
+    margin-top: 0px;
+    padding: 0px 5px;
+}
+dl dd{
+    margin-top:3px;
+    margin-left: 150px;
+    height:30px;
+}
+/*creating the green dot and placing it in front of the name*/
+#dot{
+    display:inline-block;
+    width:12px;
+    height:12px;
+    border-radius:75%;
+    background-color:#71b47a;
+}
+#mail{
+    text-decoration:none;
+    color: #d6d68e;
+}
+#mail:hover{
+    color: lawngreen;
+}
+/*Additional formating*/
+.timeAction{
+    color:#b7b2aa;
+}
+.perInfo{
+    color:#d6d68e;
+}
+/*some formating - through the padding-top I leave some space at the top ot the text*/
+div .perInfo{
+    padding-top:3px;
+}
+/*used this selector to change the height of 2 of the lines */
+.doubleLine{
+    height: 45px;
+}
+#link{
+    padding-top:7px;
+}
+#alert{
+    color:#f3142a;
+    font-weight:bold;
+    padding-top:3px;
+}
+#oStatus{
+    color:#e16a26;
+    font-weight:bold;
+}
+

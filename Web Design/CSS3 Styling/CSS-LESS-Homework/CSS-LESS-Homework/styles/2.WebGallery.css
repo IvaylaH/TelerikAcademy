@@ -1,0 +1,138 @@
+﻿/*variables*/
+/*mixin to reset the default browser settings*/
+/*mixin for setting the width and height of the different pictures*/
+/*mixin for setting the image transitions*/
+html,
+body,
+div,
+span,
+a,
+img {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 1500px;
+  background-color: #9d9e9f;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #ffffff;
+}
+#images-box {
+  margin: 0 auto;
+  padding: 10px;
+  width: 98%;
+  height: 350px;
+  position: relative;
+  top: 70px;
+  background-color: #ffffff;
+  border: 1px solid #6754c8;
+  border-radius: 6px;
+}
+#images-box .holder {
+  /*using the dimesnsions mixin to set the width and height of the pictures*/
+  width: 220px;
+  height: 190px;
+  /*float left so the images will be placed on the same line*/
+  float: left;
+  margin: 0 20px 0 0;
+}
+#images-box .holder .image-container {
+  /*width and height are inherited from the .holder*/
+  width: inherit;
+  height: inherit;
+  padding: 10px;
+  /*Box shadow*/
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  /*Position absolutely so we can zoom it out later*/
+  position: absolute;
+  top: 0;
+  /*Transitions to provide some eye candy*/
+  -moz-transition: all ease-in 0.5s;
+  -o-transition: all ease-in 0.5s;
+  -webkit-transition: all ease-in 0.5s;
+  transition: all ease-in 0.5s;
+}
+#images-box .holder .image-container img {
+  width: inherit;
+  height: inherit;
+  z-index: 3000;
+  /* padding-right: 10px;*/
+}
+#images-box .holder .image-container span {
+  display: none;
+}
+#images-box .holder .image-container .expand {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  z-index: 4000;
+  background: rgba(0, 0, 0, 0);
+  /*Fixes an IE bug*/
+  left: 0;
+}
+#images-box .holder .image-container .close {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right: 20px;
+  top: 20px;
+}
+#images-box .holder .image-container .close a {
+  height: auto;
+  width: auto;
+  padding: 5px 10px;
+  text-decoration: none;
+  box-shadow: inset 0 24px 20px -15px rgba(255, 255, 255, 0.1), inset 0 0 10px rgba(0, 0, 0, 0.4), 0 0 30px rgba(255, 255, 255, 0.4);
+  background-color: rgba(254, 1, 1, 0.81);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-weight: bold;
+  float: right;
+}
+#images-box .holder .image-container .close a:hover {
+  box-shadow: inset 0 -24px 20px -15px rgba(255, 255, 255, 0.01), inset 0 0 10px rgba(0, 0, 0, 0.4), 0 0 20px rgba(255, 255, 255, 0.4);
+}
+div[id^=image]:target {
+  width: 450px;
+  height: 300px;
+  z-index: 5000;
+  top: 50px;
+  left: 200px;
+}
+div[id^=image]:target .close {
+  display: block;
+}
+div[id^=image]:target .expand {
+  display: none;
+}
+#image-1:target,
+#image-2:target,
+#image-3:target,
+image-4:target,
+image-5:target,
+image-6:target {
+  left: 200px;
+}
+#image-1 {
+  left: 0;
+}
+#image-2 {
+  left: 250px;
+}
+#image-3 {
+  left: 500px;
+}
+#image-4 {
+  left: 750px;
+}
+#image-5 {
+  left: 1000px;
+}
+#image-6 {
+  left: 1250px;
+}
+/*# sourceMappingURL=2.WebGallery.css.map */

@@ -1,0 +1,22 @@
+﻿html,
+body,
+div,
+h1,
+label,
+input,
+ul,
+li,
+br,
+button {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 14px;
+  font-family: Corbel;
+}
+body #root {
+  width: 350px;
+}
+/*# sourceMappingURL=task3.css.map */

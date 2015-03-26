@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Overview-Homework\CSS-Overview-Homework\bin\CSS-Overview-Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Overview-Homework\CSS-Overview-Homework\bin\CSS-Overview-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Overview-Homework\CSS-Overview-Homework\bin\CSS-Overview-Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Overview-Homework\CSS-Overview-Homework\obj\Debug\CSS-Overview-Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Overview-Homework\CSS-Overview-Homework\obj\Debug\CSS-Overview-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Overview-Homework\CSS-Overview-Homework\obj\Debug\CSS-Overview-Homework.pdb

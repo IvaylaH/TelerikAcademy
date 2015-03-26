@@ -1,0 +1,127 @@
+﻿/*reseting the default browser settings*/
+html, body, header, section, form, input, label, output, div, ul, li, a, fieldset, legend, img{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+/*setting some general settings for the html document*/
+body {
+    background-color: #6338fa;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    width: 100%;
+}
+/*general settings for the wrap of the html page*/
+#wrapper{
+    margin: 25px 35px;
+    border: 1px solid #636363;
+    border-radius: 5px;
+    width: 60%;
+    height: 550px;
+    background-color: #fff;
+    position: relative;
+}
+/*settings for the header of the page and its hyperlinks*/
+header{
+    margin: 5px 25px;
+    width: 94%; /*the width of teh header will be 95% of its parent, in this case the parent is the <div> with id="wrapper"*/
+    text-align: center;
+    line-height: 35px;
+    border-bottom: 2px solid #545454;
+}
+header ul li{
+    display: inline-block; /*places the hyperlinks next to each other on the same row*/
+    list-style: none;
+}
+header ul li a{
+    color: #18b5f1;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.2rem;
+    padding-right: 1px;
+}
+/*placing border around the section with the computer images*/
+#border{
+    margin: 5px 15px 10px 10px;
+    float: left;
+    border: 2px solid #545454;
+    width: 67.5%;
+    height: 483px;
+}
+.leftBoxes{
+    float: left;
+}
+.lpBoxes{
+    margin-top: 8px;
+}
+/*for some reason the following css takes effect and the <legend> element gets centered only in Chrome*/
+legend{
+    text-align: center;
+    width: 60%;
+}
+/*general settings for the fieldset and its li elements*/
+fieldset{
+    border: 2px solid #545454;
+    margin: 4px 7px 4px 4px;
+    line-height: 25px;
+    width: 260px;
+    font-size: 1.1rem;
+}
+fieldset ul li{
+    list-style: none;
+    margin-right: 15px;
+    text-align: left;
+    font-family: Georgia, Verdana;
+}
+/*pushing the first li element down*/
+fieldset ul li:first-child{
+    margin-top: 30px;
+}
+/*changing the line-height of all elements except the 3 one which is with class="price"*/
+fieldset ul li:not(:nth-child(2n+1)){
+    line-height: 35px;
+}
+/*settings for the 3 li element*/
+.price{
+    margin-top: 6px;
+    margin-left: 30px;
+    float: left;
+    padding-right: 8px;
+}
+/*floating the images to the left and setting their dimensions*/
+img{
+    float: left;
+    width: 130px;
+    height: 90px;
+    margin-right: 3px;
+}
+aside{
+    position: absolute;
+    top: 130px;
+    right: 40px;
+    line-height: 47px;
+    font-size: 1.35rem;   
+    font-family: Georgia, Verdana;
+}
+/*setting the width of the slider*/
+aside input{
+    width: 200px;
+    text-align: center;
+}
+/*I had the following problem: the aside element was constanly moving either to the left or to the right, this happened because the max value of the max price can be a 4 digit number, so when it had 3 digits only the <aside> would move to the right, but once that value becomes a 4 digit number the whole <aside> element would move to the left againg.
+     in order to fix the problem I made the <output>s absolutely positioned*/
+aside output{
+    position: absolute;
+    right: -10px;
+    padding-left: 20px; 
+}
+/*clearing the float*/
+.clearfix{
+    zoom: 1;
+}
+.clearfix:after{
+    content: "";
+    display: block;
+    clear: both;
+    height: 0;
+}

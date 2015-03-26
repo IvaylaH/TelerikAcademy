@@ -1,0 +1,161 @@
+﻿/*variables*/
+@border: 1px solid #6754c8;
+@body-background: #9d9e9f;
+@images-box-background: #fff;
+@fonts: Arial, sans-serif;
+@fonts-size: 14px;
+@text-color: #fff;
+@close-button-color: rgba(254, 1, 1, 0.81);
+
+/*mixin to reset the default browser settings*/
+.reset(){
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+/*mixin for setting the width and height of the different pictures*/
+.dimensions(@new-width, @new-height){
+    width: @new-width;
+    height: @new-height;
+}
+/*mixin for setting the image transitions*/
+.transitions() {
+    -moz-transition: all ease-in 0.5s;
+    -o-transition: all ease-in 0.5s;
+    -webkit-transition: all ease-in 0.5s;
+    transition: all ease-in 0.5s;
+}
+
+html, body, div, span, a, img{
+    .reset();
+}
+body {
+    width: 1500px;
+    background-color: @body-background;
+    font-family: @fonts;
+    font-size: @fonts-size;
+    color: @text-color;
+}
+#images-box{
+    margin: 0 auto;
+    padding: 10px;
+    width: 98%;
+    height: 350px;
+    position: relative;
+    top: 70px;
+    background-color: @images-box-background;
+    border: @border;
+    border-radius: 6px;
+
+    .holder{
+        /*using the dimesnsions mixin to set the width and height of the pictures*/
+        .dimensions(220px, 190px);
+        /*float left so the images will be placed on the same line*/
+        float: left;
+        margin: 0 20px 0 0;
+
+        .image-container{
+            /*width and height are inherited from the .holder*/
+            width: inherit;
+            height: inherit;
+            padding: 10px;
+
+            /*Box shadow*/
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 5px;
+
+            /*Position absolutely so we can zoom it out later*/
+            position: absolute;
+            top: 0;
+            
+            /*Transitions to provide some eye candy*/
+            .transitions();
+
+            img{
+                width: inherit;
+                height: inherit;
+                z-index: 3000;
+               /* padding-right: 10px;*/
+            }
+
+            span{
+                display: none;
+            }
+
+           .expand{
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                z-index: 4000;
+                background: rgba(0,0,0,0); /*Fixes an IE bug*/
+                left: 0;
+            }
+
+            .close{
+                position: absolute;
+                width: 20px;
+                height: 20px;
+                right: 20px;
+                top: 20px;
+
+                a{
+                    height: auto;
+                    width: auto;
+                    padding: 5px 10px;
+                    text-decoration: none;
+                    box-shadow: inset 0 24px 20px -15px rgba(255, 255, 255, 0.1), inset 0 0 10px rgba(0,0,0,0.4), 0 0 30px rgba(255,255,255,0.4);
+                    background-color: @close-button-color;
+                    border: 1px solid #ccc;
+                    border-radius: 5px;
+                    font-weight: bold;
+                    float: right;
+
+                    &:hover{
+                        box-shadow: inset 0 -24px 20px -15px rgba(255, 255, 255, 0.01), inset 0 0 10px rgba(0,0,0,0.4), 0 0 20px rgba(255,255,255,0.4);
+                    }
+                }
+            }
+       }    
+    }
+}
+
+div[id^=image]:target{
+    width: 450px;
+    height: 300px;
+    z-index: 5000;
+    top: 50px;
+    left: 200px;
+
+    & > .close{
+        display: block;
+    }
+
+    & > .expand{
+        display: none;
+    }
+}   
+
+#image-1:target, #image-2:target, #image-3:target, image-4:target, image-5:target, image-6:target{*
+    left: 200px;
+}
+
+#image-1{
+    left: 0;
+}
+#image-2{
+    left: 250px; 
+}
+#image-3{
+    left: 500px;
+}
+#image-4{
+    left: 750px;
+}
+#image-5{
+    left: 1000px;
+}
+#image-6{
+    left: 1250px;
+}
+

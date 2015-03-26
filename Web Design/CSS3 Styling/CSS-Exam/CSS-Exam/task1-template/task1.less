@@ -1,0 +1,128 @@
+﻿.reset(){
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.clearfix(){
+    zoom: 1;
+
+    &:after{
+        content: "";
+        clear: both;
+        display: block;
+        height: 0;
+    }
+}
+
+@borders: 1px solid #000;
+
+html, body, div, header, h1, h2, nav, ul, li, article, p, aside, form, input, hr{
+    .reset();
+}
+body {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    #wrapper{
+        width: 960px;
+        /*margin: 0 auto;*/
+        margin-left: 4px;
+        position: relative;
+
+        header{
+            padding: 20px;
+            background-image: url('images/header-bg.png');
+            background-repeat: repeat-x;
+            border-bottom: 5px solid #39c518;
+
+            #title{
+                float: left;
+                display: inline-block;
+                
+
+                h1{
+                    font-size: 34px;
+                    color: #eee;
+                }
+
+                h2{
+                    font-size: 0.9rem;
+                    font-weight: normal;
+                    color: #c0c0c0;
+                }
+            }
+
+            #nav{
+                text-align: right;
+                margin-right: 8px;
+
+                ul{
+                    list-style-type: none;
+                    li{
+                        display: inline-block;
+                        font-size: 18px;
+                        color: #cc6600;
+                        padding-top: 24px;
+                        font-weight: bold;
+
+                        &:first-of-type{
+                            padding-right: 16px;
+                        }
+                    }
+                }
+
+            }
+
+            .clear{
+                .clearfix();
+            }
+        }
+
+       #content{
+
+           h1{
+               font-size: 30px;
+               padding-top: 20px;
+               padding-bottom: 20px;
+               color: #59770E;
+           }
+
+           article{
+               width: 763px;
+               color: #555;
+               p{
+                   padding-bottom: 14px;
+               }
+           }
+       }
+
+       #aside{
+         position: absolute;
+         top: 122px;
+         right: 0;
+         font-size: 0.9rem;
+         font-weight: bold;
+         text-transform: uppercase;
+         color: #59770e;
+          width: 200px;
+
+         hr{
+             border-top: 1px solid #9a9a9a;
+             border-bottom: 1px solid #eee;
+             margin-top: 7px;
+             margin-bottom: 5px;
+         }
+
+         form{
+             padding-top: 4px;
+             padding-left: 2px;
+
+             input{
+                 width: 155px;
+                 border: 1px solid #a9a9a9;
+                 line-height: 20px;
+             }
+         }
+       }
+    }
+}

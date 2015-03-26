@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-LESS-Homework\CSS-LESS-Homework\bin\CSS_LESS_Homework.dll.config
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-LESS-Homework\CSS-LESS-Homework\bin\CSS_LESS_Homework.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-LESS-Homework\CSS-LESS-Homework\bin\CSS_LESS_Homework.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-LESS-Homework\CSS-LESS-Homework\obj\Debug\CSS_LESS_Homework.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-LESS-Homework\CSS-LESS-Homework\obj\Debug\CSS_LESS_Homework.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-LESS-Homework\CSS-LESS-Homework\obj\Debug\CSS_LESS_Homework.pdb

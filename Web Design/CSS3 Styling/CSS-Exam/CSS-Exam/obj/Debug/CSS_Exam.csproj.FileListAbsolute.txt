@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-Exam\CSS-Exam\bin\CSS_Exam.dll.config
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-Exam\CSS-Exam\bin\CSS_Exam.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-Exam\CSS-Exam\bin\CSS_Exam.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-Exam\CSS-Exam\obj\Debug\CSS_Exam.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-Exam\CSS-Exam\obj\Debug\CSS_Exam.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\CSS-Exam\CSS-Exam\obj\Debug\CSS_Exam.pdb

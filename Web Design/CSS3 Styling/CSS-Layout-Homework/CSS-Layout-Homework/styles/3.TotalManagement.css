@@ -1,0 +1,131 @@
+﻿/*reseting the default browser settings*/
+html, body, header, secton, p, div, button, label, input, span, a{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+/*setting some general settings for the body*/
+body {
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', sans-serif;
+    color: #fff;
+    background-color: #695642;
+}
+section{
+    position: relative;
+    border: 1px solid #bfb3a7;
+    border-radius: 12px;
+    margin: 25px 45px;
+    background-color: #3b3b3b;
+    width: 45%;
+}
+/*noticed that the page has a border with width 2px but with different colors; I googled how to make such border and applied what I found; even though it's only visible when you zoom in*/
+section:before {
+    position: absolute;
+    display: block;
+    content: "";
+    border: 1px solid #8e8276;
+    border-radius: 11px;
+    height: 100%;
+    width: 100%;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/*adding linear gradient as a background to the header of the page*/
+header{
+    border-bottom: 1px solid #303030;
+    border-radius: 12px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background: #3b3b3b; /* Old browsers */
+    background: -moz-linear-gradient(top,  #3b3b3b 0%, #383838 50%, #343434 87%, #252525 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3b3b3b), color-stop(50%,#383838), color-stop(87%,#343434), color-stop(100%,#252525)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #3b3b3b 0%,#383838 50%,#343434 87%,#252525 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #3b3b3b 0%,#383838 50%,#343434 87%,#252525 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #3b3b3b 0%,#383838 50%,#343434 87%,#252525 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #3b3b3b 0%,#383838 50%,#343434 87%,#252525 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3b3b3b', endColorstr='#252525',GradientType=0 ); /* IE6-9 */
+}
+/*floating the image and some other settings*/
+img{
+    float: left;
+    margin: 3px 11px 6px 6px;
+    position: relative;
+}
+/*centering the content of the form*/
+#login{
+    position: absolute;
+    top: 10px; 
+    left: 75px;
+}
+/*general settings for the label, input and button of the header*/
+label{
+    padding-right: 10px;
+    font-weight: bold;
+    letter-spacing: 0.7px;
+}
+/*used outline and border each with width 1px to make a border with 2 colors as it is in the original*/
+input{
+    border: 1px solid #bfced9;
+    outline: 1px solid #5d6879;
+    margin-right: 15px;
+    padding-left: 10px;
+    color: #404040;
+    width: 120px;
+}
+/*changing the color of the placeholder*/
+input::-webkit-input-placeholder{
+    color: #404040;
+}
+ input:-ms-input-placeholder{
+    color: #404040;
+} 
+input:-moz-placeholder{
+    color: #404040;
+}
+button{
+    background: url('../images/go-btn.png') no-repeat 0 0;
+    text-align: center;
+    font-size: 1.0rem;
+    color: #f2c9c8;
+    width: 63px;
+    height: 34px;
+    margin-right: 3px;
+}
+/*general settings for the heading and the text*/
+h1{
+    color: #fad515;
+    font-weight: normal;
+    font-size: 1.4rem;
+    margin-left: 10px;
+}
+p{
+    padding: 0 50px 10px 10px;
+    font-size: 0.8rem;
+    font-family: Arial, sans-serif;
+    color: #8b8b8b;
+    line-height: 18px;
+}
+span{
+    color: #fff;
+}
+/*tried to add a hover effect to the hyperlink but for some reason the browser does not recognize it
+a:hover{
+    text-decoration: underline;
+    color: #41a7f3;
+}*/
+a{
+    text-decoration: none;
+    color: #8b8b8b;
+}
+/*clearing the float*/
+.clearfix{
+    zoom: 1;
+}
+.clearfix:after{
+    display: block;
+    clear: both;
+    content: "";
+    height: 0;
+}

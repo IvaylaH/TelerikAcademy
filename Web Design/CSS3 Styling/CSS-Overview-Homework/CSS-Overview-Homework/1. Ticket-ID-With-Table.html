@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>1. Problem 1</title>
+    <meta charset="utf-8" />
+    <link href="styles/1.TicketID-With-Table.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <table id="currentTable">
+        <thead>
+            <tr>
+                <th id="tableHeader" colspan="2">Ticket ID: 409788</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <!--I use the class "firstCol" to set the width of the first column-->
+                <td class="firstCol">
+                    <span class="generalInfo">Name:</span>
+                </td>
+                <td class="personalInfo">
+                    <!---->
+                    <span id="circle"></span>
+                    Parker Seidel<br />
+                    <div id="support">No active support</div>
+                </td>
+            </tr>
+            <tr>
+                <td class="firstCol">
+                    <span class="generalInfo">Email:</span>
+                </td>
+                <!--the email address is a hyper link-->
+                <td class="personalInfo">
+                    <a href="mailto:seidel@aptmail.com" target="_blank">seidel@aptmail.com</a>
+                </td>
+            </tr>
+            <tr>
+                <td class="firstCol">
+                    <span class="generalInfo">Response Time:</span>
+                </td>
+                <td class="statusInfo">72hours, 60hours left</td>
+            </tr>
+            <tr>
+                <td class="firstCol" rowspan="2">
+                    <span class="generalInfo">Last Action:</span>
+                </td>
+                <td class="statusInfo">Never been locked.</td>
+            </tr>
+            <tr>
+                <td class="personalInfo">Link to public post</td>
+            </tr>
+            <tr>
+                <td class="firstCol">
+                    <span class="generalInfo">Status:</span>
+                </td>
+                <td id="status">Not answered</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

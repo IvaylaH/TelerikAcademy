@@ -1,0 +1,74 @@
+﻿<!--Create a web page using semantic HTML by the design in homework-design-1.pptx-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>2. Homework-design-1</title>
+    <!--have placed border around the content as is shown in the presentation-->
+    <!--I set the top, left, right and bottom borders to be solid-->
+    <!--through the padding attribute I set the distance from the content to the borders-->
+    <!--using the "cells" class I set the alignment of the text in the table columns-->
+    <style>
+        body 
+        {
+            padding-bottom: 1em;
+            padding-left: 1em;
+            padding-top: 1em;
+            padding-right: 1em;
+            border-bottom: solid;
+            border-top: solid;
+            border-left: solid;
+            border-right: solid;
+        }
+        .cells
+        {
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>
+            <img src="http://www.gliffy.com/blog/wp-content/uploads/2012/10/Djedi-HTML5.png" height="80" width="65" alt="Logo" />
+            Welcome to our web site
+        </h1>
+    </header>
+    <nav>
+        <ul style="list-style-type:disc">
+            <li>Nav item 1</li>
+            <li>Nav item 1</li>
+            <li>Nav item 1</li>
+            <li>Nav item 1</li>
+        </ul>
+    </nav>
+    <section>
+        <table class="innerTable" border="1" cellspacing="0" cellpadding="5">
+            <thead>
+                <tr>
+                    <th>First name</th>
+                    <th>Last name</th>
+                    <th>Score</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="cells">
+                    <td>Doncho</td>
+                    <td>Minkov</td>
+                    <td>4.54</td>
+                </tr>
+                <tr class="cells">
+                    <td>Svetlin</td>
+                    <td>Nakov</td>
+                    <td>4.31</td>
+                </tr>
+                <tr class="cells">
+                    <td>Georgi</td>
+                    <td>Georgiev</td>
+                    <td>4.54</td>
+                </tr>
+            </tbody>
+        </table>
+    </section>
+</body>
+</html>

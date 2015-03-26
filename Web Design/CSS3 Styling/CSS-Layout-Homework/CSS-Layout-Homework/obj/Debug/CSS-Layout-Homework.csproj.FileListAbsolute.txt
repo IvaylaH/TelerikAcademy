@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Layout-Homework\CSS-Layout-Homework\bin\CSS-Layout-Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Layout-Homework\CSS-Layout-Homework\bin\CSS-Layout-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Layout-Homework\CSS-Layout-Homework\bin\CSS-Layout-Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Layout-Homework\CSS-Layout-Homework\obj\Debug\CSS-Layout-Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Layout-Homework\CSS-Layout-Homework\obj\Debug\CSS-Layout-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Layout-Homework\CSS-Layout-Homework\obj\Debug\CSS-Layout-Homework.pdb

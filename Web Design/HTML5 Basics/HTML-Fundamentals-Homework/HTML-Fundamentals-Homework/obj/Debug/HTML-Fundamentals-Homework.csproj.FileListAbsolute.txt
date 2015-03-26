@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Fundamentals-Homework\HTML-Fundamentals-Homework\bin\HTML-Fundamentals-Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Fundamentals-Homework\HTML-Fundamentals-Homework\bin\HTML-Fundamentals-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Fundamentals-Homework\HTML-Fundamentals-Homework\bin\HTML-Fundamentals-Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Fundamentals-Homework\HTML-Fundamentals-Homework\obj\Debug\HTML-Fundamentals-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Fundamentals-Homework\HTML-Fundamentals-Homework\obj\Debug\HTML-Fundamentals-Homework.pdb

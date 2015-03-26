@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Calculator</title>
+    <link href="styles/4.WinCalculatorStyles.css" rel="stylesheet" />
+    <!--the following tag places favicon in front of the title of the web page-->
+    <link rel="shortcut icon" type="image/x-icon" href="images/improved-calculator-favicon.ico" />
+</head>
+<body>
+    <form method="get" action="#" id="calculator">
+        <header id="calcHeader" class="clearFix">
+            <img src="images/Calculator_Windows_7_Icon.png" alt="calculator icon" />
+            <span id="appName">Calculator</span>
+            <ul id="topRightButtons">
+                <li>
+                    <button value="resize" id="resizeButton" class="genButtons">&mdash;</button><!--
+                    --><button value="restore" id="restoreButton" class="genButtons" disabled>&nbsp; <!--square--></button><!--
+                    --><button value="close" id="closeButton" class="genButtons">X</button>
+                </li>
+            </ul>
+        </header>
+        <section id="inline">
+            <nav id="calcNavigation">
+                <button value="viewButton" id="view" class="navButtons">View</button>
+                <button value="editButton" id="edit" class="navButtons">Edit</button>
+                <button value="helpButton" id="help" class="navButtons">Help</button>
+            </nav>
+            <article>
+                <input type="text" value="8854455" id="input" class="calcDisplay" />
+                <section id="calcBinaryRep">
+                    <ul id="bitsLine">
+                        <li><span id="63bit" class="middleBits">0000</span></li>
+                        <li><span id="59bit" class="middleBits">0000</span></li>
+                        <li><span id="55bit" class="middleBits">0000</span></li>
+                        <li><span id="51bit" class="middleBits">0000</span></li>
+                        <li><span id="47bit" class="middleBits">0000</span></li>
+                        <li><span id="42bit" class="middleBits">0000</span></li>
+                        <li><span id="38bit" class="middleBits">0000</span></li>
+                        <li><span id="32bit" class="binaryNum">0000</span></li>
+                    </ul>
+                    <ul class="bits">
+                        <li>63&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;</li>
+                        <li>47&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32</li>
+                    </ul>
+                    <ul id="bitsLine">
+                        <li><span id="31bit" class="middleBits">0000</span></li>
+                        <li><span id="27bit" class="middleBits">0000</span></li>
+                        <li><span id="23bit" class="middleBits">1000</span></li>
+                        <li><span id="19bit" class="middleBits">0111</span></li>
+                        <li><span id="15bit" class="middleBits">0001</span></li>
+                        <li><span id="11bit" class="middleBits">1011</span></li>
+                        <li><span id="7bit" class="middleBits">1011</span></li>
+                        <li><span id="0bit" class="binaryNum">0111</span></li>
+                    </ul>
+                    <ul class="bits">
+                        <li>31&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;</li>
+                        <li>15&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                        <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</li>
+                    </ul>
+                </section>
+                <div id="numSystWordType">
+                    <div id="numSystem">
+                        <div>
+                            <input type="radio" id="hexButton" name="numSystButton" value="Hex" class="numSystBtns" />
+                            <label id="hex" class="numSystLables" for="hexButton">Hex</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="decButton" name="numSystButton" value="Dec" class="numSystBtns" checked />
+                            <label id="dec" class="numSystLables" for="decButton">Dec</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="octButton" name="numSystButton" value="Oct" class="numSystBtns" />
+                            <label id="oct" class="numSystLables" for="octButton">Oct</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="binButton" name="numSystButton" value="Bin" class="numSystBtns" />
+                            <label id="bin" class="numSystLables" for="binButton">Bin</label>
+                        </div>
+                    </div>
+                    <div id="wordType">
+                        <div>
+                            <input type="radio" id="qWordButton" name="wordTypeButton" value="QWord" class="wordTypeBtns" checked />
+                            <label id="qword" class="wordTypeLabels" for="qWordButton">Qword</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="dWordButton" name="wordTypeButton" value="DWord" class="wordTypeBtns" />
+                            <label id="dword" class="wordTypeLabels" for="dWordButton">Dword</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="wordButton" name="wordTypeButton" value="Word" class="wordTypeBtns" />
+                            <label id="word" class="wordTypeLabels" for="wordButton">Word</label>
+                        </div>
+                        <div>
+                            <input type="radio" id="byteButton" name="wordTypeButton" value="Byte" class="wordTypeBtns" />
+                            <label id="byte" class="wordTypeLabels" for="byteButton">Byte</label>
+                        </div>
+                    </div>
+                </div>
+                <div id="commonButtons">
+                    <div class="line">
+                        <button value="emptyButton" id="empty" class="disabled" disabled>&nbsp;</button>
+                        <button value="modButton" id="mod" class="functions active">Mod</button>
+                        <button value="aButton" id="a" class="lettersDigits disabled" disabled>A</button>
+                        <button value="mcButton" id="mc" class="functions disabled" disabled>MC</button>
+                        <button value="mrButton" id="mr" class="functions disabled" disabled>MR</button>
+                        <button value="msButton" id="ms" class="functions disabled" disabled>MS</button>
+                        <button value="mPlusButton" id="mPlus" class="functions disabled" disabled>M+</button>
+                        <button value="mMinusButton" id="mMinus" class="functions disabled" disabled>M-</button>
+                    </div>
+                    <div class="line">
+                        <button value="lBracketButton" id="lBracket" class="functions active">(</button>
+                        <button value="rBracketButton" id="rBracket" class="functions active">)</button>
+                        <button value="bButton" id="b" class="lettersDigits disabled" disabled>B</button>
+                        <button value="backspaceButton" id="backspace" class="functions active">&larr;</button>
+                        <button value="mrButton" id="ce" class="functions active">CE</button>
+                        <button value="msButton" id="c" class="functions active">C</button>
+                        <button value="plusMinusButton" id="plusMinus" class="functions active">&plusmn;</button>
+                        <button value="sqrtButton" id="sqrt" class="functions disabled" disabled>&radic;</button>
+                    </div>
+                    <div class="line">
+                        <button value="rolButton" id="rol" class="functions active">RoL</button>
+                        <button value="rorButton" id="ror" class="functions active">RoR</button>
+                        <button value="cButton" id="c" class="lettersDigits disabled" disabled>C</button>
+                        <button value="sevenButton" id="seven" class="lettersDigits active">7</button>
+                        <button value="eightButton" id="eigth" class="lettersDigits active">8</button>
+                        <button value="nineButton" id="nine" class="lettersDigits active">9</button>
+                        <button value="divisionButton" id="division" class="functions active">&frasl;</button>
+                        <button value="percentButton" id="percent" class="functions disabled" disabled>%</button>
+                    </div>
+                    <div class="line">
+                        <button value="orButton" id="or" class="functions active">Or</button>
+                        <button value="xorButton" id="xor" class="functions active">Xor</button>
+                        <button value="dButton" id="d" class="lettersDigits disabled" disabled>D</button>
+                        <button value="fourButton" id="four" class="lettersDigits active">4</button>
+                        <button value="fiveButton" id="five" class="lettersDigits active">5</button>
+                        <button value="sixButton" id="six" class="lettersDigits active">6</button>
+                        <button value="multButton" id="multiplication" class="functions active">*</button>
+                        <button value="fracButton" id="fraction" class="functions disabled" disabled>1 &frasl; x</button>
+                    </div>
+                    <button value="equalsButton" id="equals" class="functions active">=</button>
+                    <div class="line lastLines">
+                        <button value="lshButton" id="lsh" class="functions active">Lsh</button>
+                        <button value="rshButton" id="rsh" class="functions active">Rsh</button>
+                        <button value="eButton" id="e" class="lettersDigits disabled" disabled>E</button>
+                        <button value="oneButton" id="one" class="lettersDigits active">1</button>
+                        <button value="twoButton" id="two" class="lettersDigits active">2</button>
+                        <button value="threeButton" id="three" class="lettersDigits active">3</button>
+                        <button value="minusButton" id="minus" class="functions active">-</button>
+                    </div>
+                    <div class="line lastLines">
+                        <button value="notButton" id="not" class="functions active">Not</button>
+                        <button value="andButton" id="and" class="functions active">And</button>
+                        <button value="fButton" id="f" class="lettersDigits disabled" disabled>F</button>
+                        <button value="zeroButton" id="zero" class="lettersDigits active">0</button>
+                        <button value="fPointButton" id="floatingPoint" class="funtions disabled" disabled>.</button>
+                        <button value="plusButton" id="plus" class="functions active">+</button>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </form>
+</body>
+</html>

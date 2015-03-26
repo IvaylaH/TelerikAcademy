@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>2. Nationality Table</title>
+    <meta charset="utf-8" />
+    <link href="styles/2.NationalityTable.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <table id="countryTable">
+        <thead>
+            <tr id="tHeader">
+                <th>Contact name</th>
+                <th>City</th>
+                <th>Country</th>
+                <th class="promotedCell">Is Promoted</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="oddLine">
+                <td>Maria Anders</td>
+                <td class="cityCell">Berlin</td>
+                <td>
+                    <!--I know that I could have used the CSS to add the flag pictures, but decided to use the img tag instead-->
+                    <!--I was wondering if I should put the width and height attributes here, since I set their values through the CSS file-->
+                    <img src="http://www.livehacking.com/web/wp-content/uploads/2011/10/german-flag.gif" class="flags" alt="Flag of Germany" />
+                    &nbsp; Germany
+                </td>
+                <td class="promotedCell">
+                    <input type="checkbox" name="promotedCheckBox" class="checkBox" disabled />
+                </td>
+            </tr>
+            <tr class="evenLine">
+                <td>Ana Trojillo</td>
+                <td class="cityCell">M&eacute;xico D.F.</td>
+                <td>
+                    <img src="http://www.terrysaytherauto.com/images/Mexico/MINI04/mexico_flag.gif" class="flags" alt="Flag of Mexico" />
+                    &nbsp; Mexico
+                </td>
+                <td class="promotedCell">
+                    <input type="checkbox" name="promotedCheckBox" class="checkBox" disabled />
+                </td>
+            </tr>
+            <tr class="oddLine">
+                <td>Antonio Moreno</td>
+                <td class="cityCell">M&eacute;xico D.F.</td>
+                <td>
+                    <img src="http://www.terrysaytherauto.com/images/Mexico/MINI04/mexico_flag.gif" class="flags" alt="Flag of Mexico" />
+                    &nbsp; Mexico
+                </td>
+                <td class="promotedCell">
+                    <input type="checkbox" name="promotedCheckBox" class="checkBox" checked disabled/>
+                </td>
+            </tr>
+            <tr class="evenLine">
+                <td>Thomas Hardy</td>
+                <td class="cityCell">London</td>
+                <td>
+                    <img src="http://projectbritain.com/images/uk.jpg" class="flags" alt="Flag of Mexico" />
+                    &nbsp; UK
+                </td>
+                <td class="promotedCell">
+                    <input type="checkbox" name="promotedCheckBox" class="checkBox" disabled />
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

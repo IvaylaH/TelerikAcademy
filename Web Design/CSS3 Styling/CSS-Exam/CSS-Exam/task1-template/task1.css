@@ -1,0 +1,113 @@
+﻿html,
+body,
+div,
+header,
+h1,
+h2,
+nav,
+ul,
+li,
+article,
+p,
+aside,
+form,
+input,
+hr {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body #wrapper {
+  width: 960px;
+  /*margin: 0 auto;*/
+  margin-left: 4px;
+  position: relative;
+}
+body #wrapper header {
+  padding: 20px;
+  background-image: url('images/header-bg.png');
+  background-repeat: repeat-x;
+  border-bottom: 5px solid #39c518;
+}
+body #wrapper header #title {
+  float: left;
+  display: inline-block;
+}
+body #wrapper header #title h1 {
+  font-size: 34px;
+  color: #eee;
+}
+body #wrapper header #title h2 {
+  font-size: 0.9rem;
+  font-weight: normal;
+  color: #c0c0c0;
+}
+body #wrapper header #nav {
+  text-align: right;
+  margin-right: 8px;
+}
+body #wrapper header #nav ul {
+  list-style-type: none;
+}
+body #wrapper header #nav ul li {
+  display: inline-block;
+  font-size: 18px;
+  color: #cc6600;
+  padding-top: 24px;
+  font-weight: bold;
+}
+body #wrapper header #nav ul li:first-of-type {
+  padding-right: 16px;
+}
+body #wrapper header .clear {
+  zoom: 1;
+}
+body #wrapper header .clear:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+}
+body #wrapper #content h1 {
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #59770E;
+}
+body #wrapper #content article {
+  width: 763px;
+  color: #555;
+}
+body #wrapper #content article p {
+  padding-bottom: 14px;
+}
+body #wrapper #aside {
+  position: absolute;
+  top: 122px;
+  right: 0;
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #59770e;
+  width: 200px;
+}
+body #wrapper #aside hr {
+  border-top: 1px solid #9a9a9a;
+  border-bottom: 1px solid #eee;
+  margin-top: 7px;
+  margin-bottom: 5px;
+}
+body #wrapper #aside form {
+  padding-top: 4px;
+  padding-left: 2px;
+}
+body #wrapper #aside form input {
+  width: 155px;
+  border: 1px solid #a9a9a9;
+  line-height: 20px;
+}
+/*# sourceMappingURL=task1.css.map */

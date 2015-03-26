@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>6. Problem6 - BTV News</title>
+    <link href="styles/6.BTVNews.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <!--Again it looks best in Chrome; 
+        in Mozila it's almost OK but the text of the hyperlinks in the <aside> moves down and almost touches the border of the document - the problem is probably coming from the % I am using for the font-size
+        in IE the text keeps its position but the image shift a bit to the right and it no longer toches the end of the hyperlinks-->
+    <div id="wrapper">
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#">Новините</a></li><!--
+                    --><li><a href="#" id="sport">Спорт</a></li><!--
+                    --><li><a href="#">Емисии</a></li><!--
+                    --><li><a href="#">Любопитно</a></li><!--
+                    --><li><a href="#">Аз, репортерът</a></li><!--
+                    --><li><a href="#">Тази сутрин</a></li>
+                </ul>
+            </nav>
+        </header>
+        <aside>
+            <img src="images/btv-news.png" alt="BTV News" />
+            <h1>Интернет новини - 13.07.2010г.</h1>
+            <ul>
+                <li><a href="#">Проливни дъждове в Дания, Китай и Индия, необичайни гореяини в Иран</a></li>
+                <li><a href="#">Над 200 декара горят на територията на бивш военен полигон в Германия</a></li>
+                <li><a href="#">23-ма ранени при сблъсък на два пътнически влака в Полша</a></li>
+                <li><a href="#">Диференцират от догодина минималния осигурителен доход за самоосигуряващите се</a></li>
+            </ul>
+        </aside>
+    </div>
+</body>
+</html>

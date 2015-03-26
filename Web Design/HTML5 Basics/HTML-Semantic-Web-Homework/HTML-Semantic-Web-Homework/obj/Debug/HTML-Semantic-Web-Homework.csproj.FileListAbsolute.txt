@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Semantic-Web-Homework\HTML-Semantic-Web-Homework\bin\HTML-Semantic-Web-Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Semantic-Web-Homework\HTML-Semantic-Web-Homework\bin\HTML-Semantic-Web-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Semantic-Web-Homework\HTML-Semantic-Web-Homework\bin\HTML-Semantic-Web-Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Semantic-Web-Homework\HTML-Semantic-Web-Homework\obj\Debug\HTML-Semantic-Web-Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Semantic-Web-Homework\HTML-Semantic-Web-Homework\obj\Debug\HTML-Semantic-Web-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Semantic-Web-Homework\HTML-Semantic-Web-Homework\obj\Debug\HTML-Semantic-Web-Homework.pdb

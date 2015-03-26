@@ -1,0 +1,61 @@
+﻿/*setting root values for the html document*/
+body {
+    text-align:left;
+    font-family:Arial, sans-serif;
+    font-size:14px;
+}
+/*setting the width, style and color of the borders of the table*/
+/*border collapse - removes the white space between the cell borders*/
+#countryTable{
+    border-collapse:collapse;
+    font-weight:normal;
+}
+/*I know that there is a repetition of the text-align:left property, I only placed it here because in IE
+    the property from the body tag did not take effect on the content of the header*/
+#tHeader th{
+    background-color:#52b506;
+    text-align:left;
+    color:#FFF;
+    font-weight:normal;
+    border-right: 2px solid #8c8c8c;
+    border-bottom: 2px solid #8c8c8c;
+    padding: 7px;
+}
+/*removing the right border of the last cell of the header*/
+#tHeader>.promotedCell{
+    border-right:none;
+}
+/*setting the width and heigth of the flags*/
+.flags{
+    width:30px;
+    height:20px;
+    vertical-align:middle;
+}
+/*setting the width and height of every row of the table*/
+#countryTable tr{
+    width:65px;
+    height:38px;
+}
+#countryTable #tHeader{
+    height:10px;
+}
+/*setting the background color of every even line to grey*/
+/*I know I could have used the nth-child selector*/
+.evenLine{
+    background-color:#ececd8;
+}
+/*setting the width of the columns of the table + borders*/
+tr td{
+    width:145px;
+    border-right: 2px solid #c3c3c3;
+    padding-left:7px;
+    vertical-align:middle;
+}
+.cityCell{
+    width:115px;
+}
+.promotedCell{
+    width:85px;
+    border-right:none;
+}
+

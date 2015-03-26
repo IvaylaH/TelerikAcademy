@@ -1,0 +1,96 @@
+﻿/*reseting the default browser settings*/
+html, body, button, div, section, article, ul, li, p, h1, img{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/*setting some of the general settings of the html document*/
+body {
+    margin: 10px 15px;
+    font-family: Arial, Verdana, 'Times New Roman', sans-serif;
+    font-size: 13px;
+    width: 100%;
+}
+#outline{
+    padding: 8px 10px 15px 12px;
+    background : #eee;
+    border: 1px solid #999;
+    border-radius: 4px;
+    width: 26%;
+    height: 462.5px;
+}
+/*clearing the float*/
+.clearfix{
+    zoom: 1;
+}
+.clearfix:after{
+    content: "";
+    clear: both;
+    height: 0;
+    display: block;
+}
+/*formatting the heading of the page, I am not absolutely sure about the font-family but decided that Arial Unicode gives a result closest to the one from the presentation*/
+h1{
+    font-weight: normal;
+    font-family: 'Arial Unicode MS', Tahoma, sans-serif, Arial;
+    font-size: 15px;
+    vertical-align: top;
+    margin: 5px 10px 35px 0;
+}
+/*formatting the blocks with the different articles*/
+.articles{
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 2px solid #a7a7a7;
+    background: #fff;
+    line-height: 20px;
+}
+/*formatting the images inside the articles*/
+#outline img{
+    float: left;
+    margin-right: 10px;
+   /* margin: 5px 10px 5px 5px;*/
+    border: 1px solid #ababab;
+    width: 129px;
+    height: 84px;
+}
+/*formatting the paragraphs*/
+p{
+    position: relative;
+    font-size: 10px;
+    margin: 0;
+}
+/*formatting the text of the button and setting the position of the buttons*/
+button{
+    text-align: center;
+    vertical-align: middle;
+    color: #efcdce;
+    font-size: 12px;
+    border-top: 2px solid #eb8b8b;
+    border-right: 2px solid #5e0000;
+    border-bottom: 2px solid #721c1d;
+    border-left: 2px solid #b05154;
+  /*  position: relative; */
+}
+/*for some reason, when I zoom in or out the border and the background split; I checked in google but couldn't find a way */
+button:hover{
+    border-top: 2px solid #721c1d;
+    border-right: 2px solid #b05154;
+    border-bottom: 2px solid #eb8b8b;
+    border-left: 2px solid #5e0000;
+}
+.buttons{
+    text-align: right;
+    margin-top: 12px;
+}
+/*Adding the buttons as a background images*/
+.listen-btn{
+    background: transparent url('../images/listenbtn.png') no-repeat 0 0;
+    width: 74px;
+    height: 25px;
+}
+.add-btn{
+    background: url('../images/addbtn.png') no-repeat 0 0;
+    width: 61px;
+    height: 25px;
+}

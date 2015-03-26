@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>5. Problem5 - Laptop Brochure</title>
+    <link href="styles/5.LaptopBrochure.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <ul>
+                <li><a href="http://apple.com">Apple</a></li>
+                <li><a href="http://toshiba.com">Toshiba</a></li>
+                <li><a href="http://lenovo.com">Lenovo</a></li>
+                <li><a href="http://dell.com">Dell</a></li>
+                <li><a href="http://asus.com">Asus</a></li>
+                <li><a href="http://acer.com">Acer</a></li>
+                <li><a href="http://hp.com">HP</a></li>
+            </ul>
+        </header>
+        <form action="#" method="get">
+            <section id="border">
+                <fieldset class="leftBoxes">
+                    <legend>Apple MacBook Air</legend>
+                    <img src="images/MacbookAir.jpg" alt="lp picture" />
+                    <ul>
+                        <li>64 GB SSD</li>
+                        <li class ="clearfix">2GB DDR</li>
+                        <li class="price">1300 USD</li>
+                        <li>Intel Core i5</li>
+                    </ul>
+                </fieldset>
+                <fieldset class="leftBoxes clearfix">
+                    <legend>Apple MacBook Air</legend>
+                    <img src="images/MacbookAir.jpg" alt="lp picture" />
+                    <ul>
+                        <li>64 GB SSD</li>
+                        <li class="clearfix">2GB DDR</li>
+                        <li class="price">1300 USD</li>
+                        <li>Intel Core i5</li>
+                    </ul>
+                </fieldset>
+                <fieldset class="leftBoxes">
+                    <legend>Apple MacBook Air</legend>
+                    <img src="images/MacbookAir.jpg" alt="lp picture" />
+                    <ul>
+                        <li>64 GB SSD</li>
+                        <li class="clearfix">2GB DDR</li>
+                        <li class="price">1300 USD</li>
+                        <li>Intel Core i5</li>
+                    </ul>
+                </fieldset>
+                <fieldset >
+                    <legend>Apple MacBook Air</legend>
+                    <img src="images/MacbookAir.jpg" alt="lp picture" />
+                    <ul>
+                        <li>64 GB SSD</li>
+                        <li class="clearfix">2GB DDR</li>
+                        <li class="price">1300 USD</li>
+                        <li>Intel Core i5</li>
+                    </ul>
+                </fieldset>
+                <fieldset class="lpBoxes">
+                    <legend>Apple MacBook Air</legend>
+                    <img src="images/MacbookAir.jpg" alt="lp picture" />
+                    <ul>
+                        <li>64 GB SSD</li>
+                        <li class="clearfix">2GB DDR</li>
+                        <li class="price">1300 USD</li>
+                        <li>Intel Core i5</li>
+                    </ul>
+                </fieldset>
+                <fieldset class="lpBoxes">
+                    <legend>Apple MacBook Air</legend>
+                    <img src="images/MacbookAir.jpg" alt="lp picture" />
+                    <ul>
+                        <li>64 GB SSD</li>
+                        <li>2GB DDR</li>
+                        <li class="price">1300 USD</li>
+                        <li class ="clearfix">Intel Core i5</li>
+                    </ul>
+                </fieldset>
+            </section>
+            <aside id="slides">
+                <!--using the output tag we can display the current value of the slider-->
+                <!--as far as I know the <output> tag is not supported on IE-->
+                <div>
+                    <label for="minP">Min price:</label>
+                    <output name="minPr" for="minP">500 USD</output>
+                </div>
+                <input type="range" name="minPrice" value="250" min="0" max="500" id="minP" oninput="minPr.value = minP.value + ' USD'" />
+                <div>
+                    <label for="minP">Max price:</label>
+                    <output name="maxPr" for="maxP">1500 USD</output>
+                </div>
+                <input type="range" name="maxPrice" value="750" min="0" max="1500" id="maxP" oninput="maxPr.value = maxP.value + ' USD'" />
+                <div>
+                    <label for="minR" class="ram">Min RAM:</label>
+                    <output name="minGB" for="minR">4 GB</output>
+                </div>
+                <input type="range" name="minRAM" value="2" min="0" max="4" id="minR" oninput="minGB.value = minR.value + ' USD'" />
+                <div>
+                    <label for="maxR" class="ram">Max RAM:</label>
+                    <output for="maxR" name="maxGB">16 GB</output>
+                </div>
+                <input type="range" name="maxRAM" value="8" min="0" max="16" id="maxR" oninput="maxGB.value=maxR.value + ' USD'" />
+            </aside>
+        </form>
+    </div>
+</body>
+</html>

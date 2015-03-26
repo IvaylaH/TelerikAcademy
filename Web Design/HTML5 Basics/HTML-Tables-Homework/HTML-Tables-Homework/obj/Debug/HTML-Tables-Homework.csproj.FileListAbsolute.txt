@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Tables-Homework\HTML-Tables-Homework\bin\HTML-Tables-Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Tables-Homework\HTML-Tables-Homework\bin\HTML-Tables-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Tables-Homework\HTML-Tables-Homework\bin\HTML-Tables-Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Tables-Homework\HTML-Tables-Homework\obj\Debug\HTML-Tables-Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Tables-Homework\HTML-Tables-Homework\obj\Debug\HTML-Tables-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\HTML-Tables-Homework\HTML-Tables-Homework\obj\Debug\HTML-Tables-Homework.pdb

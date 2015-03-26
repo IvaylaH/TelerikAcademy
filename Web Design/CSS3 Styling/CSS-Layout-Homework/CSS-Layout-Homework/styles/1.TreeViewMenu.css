@@ -1,0 +1,41 @@
+﻿/*reseting the default browser settings*/
+html, body, nav, ul, li, a {
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+/*setting background-color and general content properties*/
+body {
+    background-color: rgba(4, 251, 62, 0.70);
+    margin: 35px 40px;
+    padding: 2px 8px 5px 2px;
+    width: 14%;
+}
+nav{
+    background-color: #fff;
+}
+/*hidding the content of the drop down menu*/
+nav ul ul{
+    display:none;
+    padding: 0 10px;
+    width: 50%;
+}
+/*when placing the coursor over the the drop down should appear*/
+nav ul li:hover > ul{
+    display: block;
+}
+/*setting the color and text-decoration for the links*/
+nav ul{
+    list-style:none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+}
+nav ul li:hover > a{
+    text-decoration: underline;
+}
+nav ul ul li a{
+    text-decoration:none;
+    color: #c3c3c3;
+}

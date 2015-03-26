@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Presentation-Homework\CSS-Presentation-Homework\bin\CSS-Presentation-Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Presentation-Homework\CSS-Presentation-Homework\bin\CSS-Presentation-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Presentation-Homework\CSS-Presentation-Homework\bin\CSS-Presentation-Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Presentation-Homework\CSS-Presentation-Homework\obj\Debug\CSS-Presentation-Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Presentation-Homework\CSS-Presentation-Homework\obj\Debug\CSS-Presentation-Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CSS-Presentation-Homework\CSS-Presentation-Homework\obj\Debug\CSS-Presentation-Homework.csprojResolveAssemblyReference.cache

@@ -1,0 +1,42 @@
+﻿body{
+    background-color: #a9a9a9;
+    padding:10px;
+    margin:0px;
+}
+h1{
+    color: #fafad2;
+}
+body > header{
+    text-align:center;
+    font-size:20px;
+}
+article header h1{
+    font-size:22px;
+}
+a{
+    text-decoration:none;
+    color:#000;
+}
+a:hover{
+    color: green;
+}
+ul .current{
+    background-color: #d3d3d3;
+}
+ul li{
+    list-style:none;
+}
+ul li a{
+    color:#fff;
+    font-size:20px;
+}
+li:nth-last-child(1){
+    text-decoration:underline;
+}
+footer p{
+    font-size:12px;
+}
+body > footer{
+    text-align:center;
+}
+

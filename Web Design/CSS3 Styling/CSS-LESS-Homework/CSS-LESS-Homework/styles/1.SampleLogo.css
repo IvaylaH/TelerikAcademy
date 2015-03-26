@@ -1,0 +1,303 @@
+﻿/*mixin for the background-gradient*/
+/*mixin for the drop down menu of the navigation bar of the header*/
+/*mixin for the widgets list in the aside element of the page*/
+.widgets {
+  list-style-type: none;
+  /* margin: 10px 0;*/
+}
+.widgets li {
+  /*margin: 5px 0 0 10px;*/
+  background: url('../images/li-dot.png') no-repeat 0 0;
+  background-position: 0 50%;
+  padding-left: 25px;
+  border: none;
+}
+.clearfix,
+body header div#header-container,
+body header nav,
+body header nav ul,
+body header nav ul li ul.sub-nav-list,
+body section,
+body aside {
+  zoom: 1;
+}
+.clearfix:after,
+body header div#header-container:after,
+body header nav:after,
+body header nav ul:after,
+body header nav ul li ul.sub-nav-list:after,
+body section:after,
+body aside:after,
+.clearfix:before,
+body header div#header-container:before,
+body header nav:before,
+body header nav ul:before,
+body header nav ul li ul.sub-nav-list:before,
+body section:before,
+body aside:before {
+  content: "\0020";
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+.clearfix:after,
+body header div#header-container:after,
+body header nav:after,
+body header nav ul:after,
+body header nav ul li ul.sub-nav-list:after,
+body section:after,
+body aside:after {
+  clear: both;
+}
+body,
+header,
+section,
+footer,
+article,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+button,
+label,
+p,
+fieldset,
+nav,
+ul,
+li,
+a,
+span,
+strong,
+em {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+div,
+h1,
+h3,
+h4,
+h5,
+h6,
+header,
+footer,
+body,
+section,
+nav,
+article,
+aside {
+  display: block;
+}
+html {
+  /*# sourceMappingURL=1.SampleLogo.css.map */
+  background: #e9a3ff;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #e9a3ff 1%, #cf6ff2 7%, #8f19ef 23%, #ab52ea 55%);
+  /* FF3.6+ */
+  background-image: -webkit-linear-gradient(top, #e9a3ff 1%, #cf6ff2 7%, #8f19ef 23%, #ab52ea 55%);
+  background-image: -moz-linear-gradient(top, #e9a3ff 1%, #cf6ff2 7%, #8f19ef 23%, #ab52ea 55%);
+  background-image: -ms-linear-gradient(top, #e9a3ff 1%, #cf6ff2 7%, #8f19ef 23%, #ab52ea 55%);
+  background-image: -o-linear-gradient(top, #e9a3ff 1%, #cf6ff2 7%, #8f19ef 23%, #ab52ea 55%);
+  background-image: linear-gradient(to bottom, #e9a3ff 1%, #cf6ff2 7%, #8f19ef 23%, #ab52ea 55%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#{@from}', endColorstr='#{@to}', GradientType=0);
+  background-repeat: none;
+}
+html body {
+  font: 14px normal Arial;
+  color: #ffffff;
+  /*settings for the header section*/
+  /*general settings for the section part of the html document*/
+  /*general settings for the aside section of the html document*/
+}
+html body header {
+  padding: 25px 5px 15px 15px;
+}
+html body header nav {
+  display: inline-block;
+  width: 75%;
+  margin: 20px;
+  padding: 12px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  list-style: none;
+}
+html body header nav ul {
+  list-style: none;
+}
+html body header nav ul li {
+  float: left;
+  margin: 0;
+}
+html body header nav ul li a {
+  text-decoration: none;
+  padding: 0 10px;
+  color: #ffffff;
+  font: 1.4em normal Arial;
+}
+html body header nav ul li:hover > a {
+  text-decoration: underline;
+  color: #a8a8a8;
+}
+html body header nav ul li:hover > .sub-nav-list {
+  display: block;
+  float: none;
+}
+html body header nav .sub-nav-list {
+  position: absolute;
+  display: none;
+  background-color: rgba(179, 94, 243, 0.9);
+  border-radius: 10px;
+}
+html body header nav .sub-nav-list li {
+  float: none;
+  margin: 0 15px;
+  padding: 10px 0;
+  border-bottom: 1px solid #000000;
+}
+html body header nav .sub-nav-list li > a {
+  font-size: 1.2em;
+  color: #ffffff;
+}
+html body header nav .sub-nav-list li:last-of-type {
+  border-bottom: none;
+}
+html body section {
+  width: 75%;
+  float: left;
+  color: #000;
+}
+html body section article {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #000000;
+  color: #ffffff;
+  border-radius: 10px;
+}
+html body section article header {
+  background: none;
+  padding: 5px;
+}
+html body section article header h1 {
+  font-size: 1.4em;
+  padding: 0;
+}
+html body section article footer {
+  padding: 5px;
+}
+html body section article footer p {
+  font-size: 16px;
+  text-align: right;
+  font-weight: normal;
+}
+html body section article footer p time {
+  font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+}
+html body section article footer p a {
+  text-decoration: none;
+  color: #cf78f6;
+}
+html body section article footer p a:hover {
+  text-decoration: underline;
+}
+html body aside {
+  float: left;
+  width: 20%;
+  margin: 20px;
+}
+html body aside > ul {
+  list-style: none;
+}
+html body aside > ul > li {
+  margin: 15px 0;
+  padding: 15px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+html body aside > ul > li h2 {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+html body aside > ul > li p {
+  margin: 10px 5px;
+  font-size: 14px;
+}
+html body aside > ul > li p a {
+  color: #aaa;
+  text-decoration: none;
+}
+html body aside > ul > li p strong {
+  color: #ccc;
+  font-weight: bold;
+  font-style: normal;
+}
+html body aside > ul > li p em {
+  color: #ccc;
+  font-weight: normal;
+  font-style: italic;
+}
+html body aside > ul ul {
+  list-style-type: none;
+  /* margin: 10px 0;*/
+}
+html body aside > ul ul li {
+  /*margin: 5px 0 0 10px;*/
+  background: url('../images/li-dot.png') no-repeat 0 0;
+  background-position: 0 50%;
+  padding-left: 25px;
+  border: none;
+}
+html body footer {
+  clear: both;
+  padding: 15px 0 25px;
+}
+html body footer p {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-align: center;
+}
+/*general settings for the logo container*/
+#logo-container {
+  float: left;
+  position: relative;
+}
+/*settings for the header form - username and password, register button*/
+#reg-form-container {
+  float: right;
+  position: relative;
+  right: 5%;
+  top: 50%;
+}
+#reg-form-container label {
+  width: 50px;
+  margin: 5px;
+}
+#reg-form-container input {
+  width: 130px;
+  border: 1px solid #603382;
+  border-radius: 10px;
+  padding: 2px 5px;
+  margin: 5px;
+  background: #b35ef3;
+}
+#reg-form-container button {
+  margin-right: 0;
+  font-weight: bold;
+  border: 1px solid #8949b9;
+  border-style: outset;
+  border-left: 1px solid rgba(255, 255, 255, 0.7);
+  border-left-style: outset;
+  border-top: 1px solid rgba(255, 255, 255, 0.7);
+  border-top-style: outset;
+  border-radius: 10px;
+  padding: 5px 8px;
+  background: #b35ef3;
+  color: #ffffff;
+}
+#reg-form-container button:hover {
+  background-color: #8949b9;
+  border-style: inset;
+}
+/*# sourceMappingURL=1.SampleLogo.css.map */

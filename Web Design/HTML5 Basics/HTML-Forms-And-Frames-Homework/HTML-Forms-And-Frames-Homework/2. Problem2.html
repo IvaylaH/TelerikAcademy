@@ -1,0 +1,196 @@
+﻿<!--Create the following using tables and forms:-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>2. Second problem</title>
+    <!--using the class name "headerCells" to set the font of the text to bold-->
+    <!--using the class name "ordinaryCells" to set the alignment of the text to left-->
+    <!--using the class name "averageMark" to set the font of the text to bold and the alignment to central-->
+    <style>
+        .headerCells
+        {
+            font-weight:bold;
+        }
+        .ordinaryCells
+        {
+            text-align:left;
+        }
+        .averageMark
+        {
+            text-align:center;
+            font-weight:bold;
+        }
+    </style>
+</head>
+<body>
+    <form action="" method="get">
+        <table border="1" cellspacing="0" cellpadding="10">
+            <colgroup>
+                <col width="50" />
+                <col width="100" />
+                <col width="100" />
+                <col width="150" />
+                <col width="50" />
+                <col width="50" />
+                <col width="50" />
+                <col width="50" />
+                <col width="50" />
+            </colgroup>
+            <thead>
+                <!--This is the header of the table with general information about the content of each cell-->
+                <!--all the cells of the header are members of the class "headerCells"-->
+                <tr>
+                    <th rowspan="2" class="headerCells">Order</th>
+                    <th colspan="3" class="headerCells">Personal Info</th>
+                    <th colspan="5" class="headerCells">University Mark</th>
+                </tr>
+                <tr>
+                    <th class="headerCells">First Name</th>
+                    <th class="headerCells">Last Name</th>
+                    <th class="headerCells">Faculty Number</th>
+                    <th class="headerCells">English</th>
+                    <th class="headerCells">Math</th>
+                    <th class="headerCells">Biology</th>
+                    <th class="headerCells">Physics</th>
+                    <th class="headerCells">Total</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <!--This is the footer of the table with the buttons "Previous" and "Next" and hyperlinks to the different pages-->
+                <tr>
+                    <td colspan="9">
+                        <input type="button" name="previous" id="prev" value="Previous" />
+                        <a href="page1.html">1</a>
+                        <a href="page1.html">2</a>
+                        <a href="page1.html">3</a>
+                        <a href="page1.html">4</a>
+                        <a href="page1.html">5</a>
+                        <a href="page1.html">6</a>
+                        <a href="page1.html">7</a>
+                        <a href="page1.html">8</a>
+                        <a href="page1.html">9</a>
+                        <a href="page1.html">10</a>
+                        <input type="button" name="next" id="next" value="Next" />
+                    </td>
+                </tr>
+            </tfoot>
+            <tbody>
+                <!--inside the body of the table we have 2 main classes: 1.ordinaryCells and 2.averageMark
+                    I have used those classes to set the style of the cells' content-->
+                <tr>
+                    <td class="ordinaryCells">1</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">5</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">6</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">7</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">8</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">9</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+                <tr>
+                    <td class="ordinaryCells">10</td>
+                    <td class="ordinaryCells">Pesho</td>
+                    <td class="ordinaryCells">Yordanov</td>
+                    <td class="ordinaryCells">123456</td>
+                    <td class="ordinaryCells">2</td>
+                    <td class="ordinaryCells">3</td>
+                    <td class="ordinaryCells">4</td>
+                    <td class="ordinaryCells">5</td>
+                    <td class="averageMark">3.50</td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

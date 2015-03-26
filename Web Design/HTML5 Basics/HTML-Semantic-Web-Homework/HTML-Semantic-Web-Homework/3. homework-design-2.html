@@ -1,0 +1,112 @@
+﻿<!--Create a web page using semantic HTML by the design in homework-design-2.pptx-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>3. Homework-design-2</title>
+    <style>
+        body {
+            padding-bottom: 1em;
+            padding-left: 1em;
+            padding-top: 1em;
+            padding-right: 1em;
+            border-bottom: solid;
+            border-top: solid;
+            border-left: solid;
+            border-right: solid;
+        }
+    </style>
+</head>
+<body>
+    <form action="" method="post">
+        <header>
+            <h1>LinkedIn</h1>
+            <nav>
+                <ul style="list-style-type:disc">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">What is LinkedIn?</a></li>
+                    <li><a href="#">Join Today</a></li>
+                    <li>
+                        <fieldset>
+                            <legend id="signIn">Sign In</legend>
+                            <ul style="list-style-type:circle">
+                                <li>
+                                    <label for="mail">Email</label>
+                                    <input type="email" name="mail" id="mail" />
+                                </li>
+                                <li>
+                                    <label for="pass">Password</label>
+                                    <input type="password" name="pass" id="pass" />
+                                </li>
+                                <li>
+                                    <input type="button" name="signInButton" value="Sign In" />
+                                </li>
+                            </ul>
+                        </fieldset>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <hr />
+        <section>
+            <header>
+                <h1>Over 175 million professional use LinkedIn to exchange information, ideas and opportunities</h1>
+            </header>
+            <ul style="list-style-type:disc">
+                <li>Stay informed about your contacts and industry</li>
+                <li>Find the people &amp; knowledge you need to achieve your goals</li>
+                <li>Control your professional identity online</li>
+            </ul>
+            <section>
+                <header>
+                    <h2>Join LinkedIn Today</h2>
+                </header>
+                <fieldset>
+                    <legend>Sign Up</legend>
+                    <ul style="list-style-type:disc">
+                        <li>
+                            <label for="fn">First Name:</label><br />
+                            <input type="text" name="fn" id="fn" />
+                        </li>
+                        <li>
+                            <label for="ln">Last Name:</label><br />
+                            <input type="text" name="ln" id="ln" />
+                        </li>
+                        <li>
+                            <label for="mail">Email</label><br />
+                            <input type="email" name="mail" id="mail" />
+                        </li>
+                        <li>
+                            <label for="pass">Password</label><br />
+                            <input type="password" name="pass" id="pass" /><br />
+                            6 or more characters
+                        </li>
+                    </ul>
+                    <div>
+                        <input type="button" name="joinButton" value="Join Now" />
+                        <a href="#">&bull;</a>
+                    </div>
+                    <div>
+                        <em>Already</em> on LinkedIn? <a href="homework-design-2.html/#signIn">Sign in</a>
+                    </div>
+                </fieldset>
+            </section>
+            <section>
+                <h4>Search for someone by name:</h4>
+                <ul style="list-style-type:disc">
+                    <li>
+                        <label for="fn">First Name</label>
+                        <input type="text" name="fn" id="fn" placeholder="First Name" />
+                    </li>
+                    <li>
+                        <label for="ln">Last Name</label>
+                        <input type="text" name="ln" id="ln" placeholder="Last Name" />
+                    </li>
+                </ul>
+                <input type="button" name="go" value="Go" />
+            </section>
+        </section>
+    </form>
+</body>
+</html>

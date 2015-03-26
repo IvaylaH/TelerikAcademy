@@ -1,0 +1,63 @@
+﻿/*default settings for the content of the body*/
+body {
+    font-family:Arial, sans-serif;
+    font-size:13px;
+    text-align:left;
+}
+/*here I set the table dimensions and the background color for the table*/
+#currentTable{
+    background-color:#595959;
+    width:400px;
+    height:250px;
+}
+table td{
+    padding:3px;
+    vertical-align:top;
+    border-spacing:2px, 4px;
+}
+/*setting the width of the first column of the table*/
+.firstCol{
+    width:115px;
+}
+/*formating the content of the <thead>*/
+#tableHeader{
+    font-size:21px;
+    font-weight:normal;
+    color:#b7b2aa;
+    height:45px;
+}
+/*formating the content of the first column*/
+.generalInfo{
+    font-style:italic;
+    font-weight:bold;
+    color:#e4dbd3;
+}
+/*placing the green dot in front of the name
+    display:inline-block would leave the space we need so that the dot can be displayed properly*/
+#circle{
+    display:inline-block;
+    background-color:#71b47a;
+    width:13px;
+    height:13px;
+    border-radius:75%;
+}
+/*additional formatting*/
+.personalInfo{
+    color:#d6d68e;
+}
+a{
+    text-decoration:none;
+    color:#d6d68e;
+}
+.statusInfo{
+    color:#b7b2aa;
+}
+#support{
+    color:#f3142a;
+    font-weight:bold;
+}
+#status{
+    color:#e16a26;
+    font-weight:bold;
+}
+
