@@ -1,0 +1,129 @@
+﻿html, body, div, span{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: 13px;
+    font-family: Verdana, Arial, sans-serif;
+    width: 400px;
+    margin: 35px 55px;
+}
+#div-before{
+    background-color: #b695fe;
+    border: 1px solid #b695fe;
+    width: 90%;
+    padding: 3px;
+}
+#div-after{
+    background-color: #cdb7fe;
+    border: 1px solid #cdb7fe;
+    width: 90%;
+    padding: 3px;
+}
+#div-1{
+    background-color: #000;
+    border: 1px solid #000;
+    color: #fff;
+    width: 90%;
+    padding: 10px 3px 10px 3px;
+}
+#text{
+    padding-left: 5px;
+}
+#div-1a{
+    background-color: #fe4444;
+    border: 1px solid #fe4444;
+    margin: 3px 3px 0 3px;
+    padding: 3px;
+}
+#div-1b{
+    background-color: #82f32b;
+    border: 1px solid #82f32b;
+    margin: 3px 3px 0 3px;
+    padding: 3px;
+}
+#div-1c{
+    background-color: #9160fc;
+    border: 1px solid #9160fc;
+    margin: 3px 3px 0 3px;
+    padding: 3px;
+}
+/*positioning*/
+/*position: relative*/
+/*#div-1{
+    position: relative;
+    top: 20px;
+    left: -40px;
+}*/
+/*position: absolute*/
+/*#div-1a{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 200px;
+    margin: 0;
+}*/
+/*position: relative + position: absolute*/
+/*#div-1{
+    position: relative;
+}
+#div-1a{
+    position: absolute;
+    top: 0;
+    right:0;
+    width: 50%;
+    margin: 0;
+}*/
+/*2 column absolute & 2 column absolute heigth*/
+/*#div-1{
+    position: relative;
+    height: 250px;
+}
+#div-1a{
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    width: 50%;
+}
+#div-1b{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    width: 46%;
+}*/
+/*float*/
+/*#div-1{
+    float: left;
+    width: 200px;
+}*/
+/*float columns*/
+/*#div-1a{
+    float: left;
+    width: 150px;
+    margin: 0;
+    margin-top: 16px;
+    margin-left: 4px;
+}
+#div-1b{
+    float: left; 
+    width: 150px;
+    margin: 0;
+}*/
+/*float columns with clear*/
+#div-1a{
+    float: left;
+    width: 45%;
+    margin: 0;
+    margin-top: 16px;
+}
+#div-1b{
+    float: left;
+    width: 45%;
+    margin: 0;
+}
+#div-1c{
+    clear: both;
+}
