@@ -1,0 +1,3 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\bin\Debug\SelectTheStudentsFromGroup2.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\obj\Debug\SelectTheStudentsFromGroup2.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\obj\Debug\SelectTheStudentsFromGroup2.pdb

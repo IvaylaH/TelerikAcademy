@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\bin\Debug\ReturnStringWithMaxLength.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\obj\Debug\317. ReturnStringWithMaxLength.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\bin\Debug\ReturnStringWithMaxLength.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\bin\Debug\ReturnStringWithMaxLength.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\obj\Debug\ReturnStringWithMaxLength.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\obj\Debug\ReturnStringWithMaxLength.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\bin\Debug\ReturnStringWithMaxLength.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\obj\Debug\ReturnStringWithMaxLength.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\ReturnStringWithMaxLength\obj\Debug\ReturnStringWithMaxLength.pdb

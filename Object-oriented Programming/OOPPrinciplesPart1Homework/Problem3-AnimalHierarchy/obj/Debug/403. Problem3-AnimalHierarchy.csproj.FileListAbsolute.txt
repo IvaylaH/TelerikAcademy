@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem3-AnimalHierarchy\bin\Debug\Problem3-AnimalHierarchy.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem3-AnimalHierarchy\obj\Debug\403. Problem3-AnimalHierarchy.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem3-AnimalHierarchy\bin\Debug\Problem3-AnimalHierarchy.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem3-AnimalHierarchy\bin\Debug\Problem3-AnimalHierarchy.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem3-AnimalHierarchy\obj\Debug\Problem3-AnimalHierarchy.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem3-AnimalHierarchy\obj\Debug\Problem3-AnimalHierarchy.pdb

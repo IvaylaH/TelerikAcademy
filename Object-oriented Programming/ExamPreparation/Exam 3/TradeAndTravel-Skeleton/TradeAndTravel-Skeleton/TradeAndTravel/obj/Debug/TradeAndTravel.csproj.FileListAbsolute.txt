@@ -1,0 +1,1 @@
+C:\Users\ivayla\Documents\Telerik Academy\OOP\Exam preparation\Exam 3 - spring academy\TradeAndTravel-Skeleton\TradeAndTravel-Skeleton\TradeAndTravel\bin\Debug\TradeAndTravel.exe.config

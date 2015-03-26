@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "501. Problem1-Define class Shape", "Problem1 - Shape\501. Problem1-Define class Shape.csproj", "{117AE4E7-055E-477C-9677-775BB0AFBF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "502. Problem2-Bank", "Problem2-Bank\502. Problem2-Bank.csproj", "{3FFA99DC-8C2E-45B4-91F7-BE8DF2CCCE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "503. Problem3-InvalidRangeException", "ConsoleApplication1\503. Problem3-InvalidRangeException.csproj", "{EEB32146-F8B1-4DE7-B969-E2306C6EB828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117AE4E7-055E-477C-9677-775BB0AFBF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117AE4E7-055E-477C-9677-775BB0AFBF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117AE4E7-055E-477C-9677-775BB0AFBF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117AE4E7-055E-477C-9677-775BB0AFBF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FFA99DC-8C2E-45B4-91F7-BE8DF2CCCE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFA99DC-8C2E-45B4-91F7-BE8DF2CCCE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFA99DC-8C2E-45B4-91F7-BE8DF2CCCE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFA99DC-8C2E-45B4-91F7-BE8DF2CCCE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB32146-F8B1-4DE7-B969-E2306C6EB828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB32146-F8B1-4DE7-B969-E2306C6EB828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB32146-F8B1-4DE7-B969-E2306C6EB828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB32146-F8B1-4DE7-B969-E2306C6EB828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

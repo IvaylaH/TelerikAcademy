@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\DelegatesAndClassTimer\bin\Debug\DelegatesAndClassTimer.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\DelegatesAndClassTimer\obj\Debug\DelegatesAndClassTimer.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\DelegatesAndClassTimer\obj\Debug\DelegatesAndClassTimer.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\DelegatesAndClassTimer\bin\Debug\DelegatesAndClassTimer.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\DelegatesAndClassTimer\bin\Debug\DelegatesAndClassTimer.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\DelegatesAndClassTimer\obj\Debug\307. DelegatesAndClassTimer.csprojResolveAssemblyReference.cache

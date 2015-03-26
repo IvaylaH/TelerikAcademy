@@ -1,0 +1,1 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\ExtractStudentsByGroupName\bin\Debug\ExtractStudentsByGroupName.exe.config

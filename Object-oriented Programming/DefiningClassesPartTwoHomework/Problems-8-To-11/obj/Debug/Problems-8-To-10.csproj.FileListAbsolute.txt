@@ -1,0 +1,12 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\DefiningClassesPartTwoHomework\Problems-8-To-11\bin\Debug\Problems-8-To-11.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\DefiningClassesPartTwoHomework\Problems-8-To-11\obj\Debug\Problems-8-To-11.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\DefiningClassesPartTwoHomework\Problems-8-To-11\obj\Debug\Problems-8-To-11.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\DefiningClassesPartTwoHomework\Problems-8-To-11\bin\Debug\Problems-8-To-11.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\DefiningClassesPartTwoHomework\Problems-8-To-11\bin\Debug\Problems-8-To-11.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\DefiningClassesPartTwoHomework\Problems-8-To-11\obj\Debug\Problems-8-To-10.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DefiningClassesPartTwoHomework\Problems-8-To-11\bin\Debug\Problems-8-To-11.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DefiningClassesPartTwoHomework\Problems-8-To-11\obj\Debug\Problems-8-To-11.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DefiningClassesPartTwoHomework\Problems-8-To-11\obj\Debug\Problems-8-To-11.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DefiningClassesPartTwoHomework\Problems-8-To-11\bin\Debug\Problems-8-To-11.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DefiningClassesPartTwoHomework\Problems-8-To-11\bin\Debug\Problems-8-To-11.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DefiningClassesPartTwoHomework\Problems-8-To-11\obj\Debug\Problems-8-To-10.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\FindStudentsWithFirstName\bin\Debug\FindStudentsWithFirstName.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\FindStudentsWithFirstName\bin\Debug\FindStudentsWithFirstName.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\FindStudentsWithFirstName\bin\Debug\FindStudentsWithFirstName.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\FindStudentsWithFirstName\obj\Debug\3. FindStudensWithFirstName.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\FindStudentsWithFirstName\obj\Debug\FindStudentsWithFirstName.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\FindStudentsWithFirstName\obj\Debug\FindStudentsWithFirstName.pdb

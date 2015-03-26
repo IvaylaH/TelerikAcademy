@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem4-Define-Class-Person\bin\Debug\Problem4-Define-Class-Person.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem4-Define-Class-Person\bin\Debug\Problem4-Define-Class-Person.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem4-Define-Class-Person\bin\Debug\Problem4-Define-Class-Person.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem4-Define-Class-Person\obj\Debug\Problem4-Define-Class-Person.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem4-Define-Class-Person\obj\Debug\Problem4-Define-Class-Person.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem4-Define-Class-Person\obj\Debug\Problem4-Define-Class-Person.pdb

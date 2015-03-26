@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\bin\Debug\SetOfExtensionMethods.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\bin\Debug\SetOfExtensionMethods.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\bin\Debug\SetOfExtensionMethods.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\obj\Debug\2. SetOfExtensionMethods.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\obj\Debug\SetOfExtensionMethods.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\obj\Debug\SetOfExtensionMethods.pdb

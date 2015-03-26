@@ -1,0 +1,8 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\bin\Debug\SelectTheStudentsFromGroup2.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\obj\Debug\SelectTheStudentsFromGroup2.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\obj\Debug\SelectTheStudentsFromGroup2.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\bin\Debug\SelectTheStudentsFromGroup2.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\bin\Debug\SelectTheStudentsFromGroup2.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\bin\Debug\SelectTheStudentsFromGroup2.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\obj\Debug\SelectTheStudentsFromGroup2.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SelectTheStudentsFromGroup2\obj\Debug\SelectTheStudentsFromGroup2.pdb

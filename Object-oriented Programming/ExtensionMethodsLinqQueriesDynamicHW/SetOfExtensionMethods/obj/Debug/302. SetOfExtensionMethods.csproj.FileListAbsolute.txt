@@ -1,0 +1,3 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\bin\Debug\SetOfExtensionMethods.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\obj\Debug\SetOfExtensionMethods.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SetOfExtensionMethods\obj\Debug\SetOfExtensionMethods.pdb

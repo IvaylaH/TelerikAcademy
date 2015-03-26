@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SortStudentsByFirstAndLastName\bin\Debug\SortStudentsByFirstAndLastName.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SortStudentsByFirstAndLastName\obj\Debug\SortStudentsByFirstAndLastName.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SortStudentsByFirstAndLastName\obj\Debug\SortStudentsByFirstAndLastName.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SortStudentsByFirstAndLastName\bin\Debug\SortStudentsByFirstAndLastName.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ExtensionMethodsLinqQueriesDynamicHW\SortStudentsByFirstAndLastName\bin\Debug\SortStudentsByFirstAndLastName.pdb

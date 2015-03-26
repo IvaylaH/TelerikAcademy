@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem1\bin\Debug\Problem1.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem1\bin\Debug\Problem1.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem1\bin\Debug\Problem1.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem1\obj\Debug\Problem1.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem1\obj\Debug\Problem1.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem1\obj\Debug\Problem1.pdb

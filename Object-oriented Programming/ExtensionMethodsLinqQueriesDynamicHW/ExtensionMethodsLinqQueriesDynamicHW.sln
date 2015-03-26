@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "301. SubstringExtensionMethod", "SubstringExtensionMethod\301. SubstringExtensionMethod.csproj", "{767EB1F6-77CD-4280-8F46-06010FAE84D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "302. SetOfExtensionMethods", "SetOfExtensionMethods\302. SetOfExtensionMethods.csproj", "{2493DA63-2A48-4D0A-9308-93DA9F83F7CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "303. FindStudensWithFirstName", "FindStudentsWithFirstName\303. FindStudensWithFirstName.csproj", "{889369F3-16F8-41F6-8AF3-44239733E696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "304. StudentsWithAge18-24", "StudentsWithAge18-24\304. StudentsWithAge18-24.csproj", "{7635D408-FEB0-4DE6-8CDC-4FBE5EA66F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "305. SortStudentsByFirstAndLastName", "SortStudentsByFirstAndLastName\305. SortStudentsByFirstAndLastName.csproj", "{7C8DB7C6-2292-4A95-8F5E-A02D09AAA304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "306. PrintNumbersDivisibleBy7And3", "PrintNumbersDivisibleBy7And3\306. PrintNumbersDivisibleBy7And3.csproj", "{9FE573FD-274A-4DDF-A25C-08A5BC3A20BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "307. DelegatesAndClassTimer", "DelegatesAndClassTimer\307. DelegatesAndClassTimer.csproj", "{021A2676-18E2-46B7-98B5-BBB985E3E6FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "309 - 316. SelectTheStudentsFromGroup2", "SelectTheStudentsFromGroup2\309 - 316. SelectTheStudentsFromGroup2.csproj", "{FB7F6F21-92A3-4A9F-810A-8A9408CA5F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "317. ReturnStringWithMaxLength", "ReturnStringWithMaxLength\317. ReturnStringWithMaxLength.csproj", "{F79A693D-E2AF-48CC-8DD6-9E89565B6418}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "318-319. ExtractStudentsByGroupName", "ExtractStudentsByGroupName\318-319. ExtractStudentsByGroupName.csproj", "{A60BE387-538D-4A94-B1FA-509E5507CDF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767EB1F6-77CD-4280-8F46-06010FAE84D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767EB1F6-77CD-4280-8F46-06010FAE84D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767EB1F6-77CD-4280-8F46-06010FAE84D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767EB1F6-77CD-4280-8F46-06010FAE84D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2493DA63-2A48-4D0A-9308-93DA9F83F7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2493DA63-2A48-4D0A-9308-93DA9F83F7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2493DA63-2A48-4D0A-9308-93DA9F83F7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2493DA63-2A48-4D0A-9308-93DA9F83F7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889369F3-16F8-41F6-8AF3-44239733E696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889369F3-16F8-41F6-8AF3-44239733E696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889369F3-16F8-41F6-8AF3-44239733E696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889369F3-16F8-41F6-8AF3-44239733E696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7635D408-FEB0-4DE6-8CDC-4FBE5EA66F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7635D408-FEB0-4DE6-8CDC-4FBE5EA66F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7635D408-FEB0-4DE6-8CDC-4FBE5EA66F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7635D408-FEB0-4DE6-8CDC-4FBE5EA66F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8DB7C6-2292-4A95-8F5E-A02D09AAA304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8DB7C6-2292-4A95-8F5E-A02D09AAA304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8DB7C6-2292-4A95-8F5E-A02D09AAA304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8DB7C6-2292-4A95-8F5E-A02D09AAA304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FE573FD-274A-4DDF-A25C-08A5BC3A20BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE573FD-274A-4DDF-A25C-08A5BC3A20BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE573FD-274A-4DDF-A25C-08A5BC3A20BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE573FD-274A-4DDF-A25C-08A5BC3A20BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021A2676-18E2-46B7-98B5-BBB985E3E6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021A2676-18E2-46B7-98B5-BBB985E3E6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021A2676-18E2-46B7-98B5-BBB985E3E6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021A2676-18E2-46B7-98B5-BBB985E3E6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7F6F21-92A3-4A9F-810A-8A9408CA5F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7F6F21-92A3-4A9F-810A-8A9408CA5F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7F6F21-92A3-4A9F-810A-8A9408CA5F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7F6F21-92A3-4A9F-810A-8A9408CA5F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79A693D-E2AF-48CC-8DD6-9E89565B6418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79A693D-E2AF-48CC-8DD6-9E89565B6418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79A693D-E2AF-48CC-8DD6-9E89565B6418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79A693D-E2AF-48CC-8DD6-9E89565B6418}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60BE387-538D-4A94-B1FA-509E5507CDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60BE387-538D-4A94-B1FA-509E5507CDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60BE387-538D-4A94-B1FA-509E5507CDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60BE387-538D-4A94-B1FA-509E5507CDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

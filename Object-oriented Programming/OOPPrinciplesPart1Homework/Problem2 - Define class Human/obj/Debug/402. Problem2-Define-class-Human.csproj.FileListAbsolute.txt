@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem2 - Define class Human\bin\Debug\Problem2 - Define class Human.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem2 - Define class Human\bin\Debug\Problem2 - Define class Human.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem2 - Define class Human\bin\Debug\Problem2 - Define class Human.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem2 - Define class Human\obj\Debug\402. Problem2-Define-class-Human.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem2 - Define class Human\obj\Debug\Problem2 - Define class Human.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart1Homework\Problem2 - Define class Human\obj\Debug\Problem2 - Define class Human.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\OOPPrinciplesPart1Homework\Problem2 - Define class Human\bin\Debug\Problem2 - Define class Human.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\OOPPrinciplesPart1Homework\Problem2 - Define class Human\obj\Debug\Problem2 - Define class Human.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\OOPPrinciplesPart1Homework\Problem2 - Define class Human\obj\Debug\Problem2 - Define class Human.pdb

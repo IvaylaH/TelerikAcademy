@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Telerik Academy\OOP\Exam preparation\Exam 2\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.exe
+C:\Users\ivayla\Documents\Telerik Academy\OOP\Exam preparation\Exam 2\AcademyEcosystem-Skeleton\bin\Debug\AcademyEcosystem.pdb
+C:\Users\ivayla\Documents\Telerik Academy\OOP\Exam preparation\Exam 2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Telerik Academy\OOP\Exam preparation\Exam 2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.exe
+C:\Users\ivayla\Documents\Telerik Academy\OOP\Exam preparation\Exam 2\AcademyEcosystem-Skeleton\obj\Debug\AcademyEcosystem.pdb

@@ -1,0 +1,9 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem5-BitArray\bin\Debug\Problem5-BitArray.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem5-BitArray\obj\Debug\Problem5-BitArray.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem5-BitArray\bin\Debug\Problem5-BitArray.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem5-BitArray\bin\Debug\Problem5-BitArray.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem5-BitArray\obj\Debug\Problem5-BitArray.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\CTSHomework\Problem5-BitArray\obj\Debug\Problem5-BitArray.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\CTSHomework\Problem5-BitArray\bin\Debug\Problem5-BitArray.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\CTSHomework\Problem5-BitArray\obj\Debug\Problem5-BitArray.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\CTSHomework\Problem5-BitArray\obj\Debug\Problem5-BitArray.pdb

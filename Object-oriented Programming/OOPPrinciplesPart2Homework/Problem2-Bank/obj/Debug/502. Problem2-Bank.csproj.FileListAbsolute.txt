@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart2Homework\Problem2-Bank\bin\Debug\Problem2-Bank.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart2Homework\Problem2-Bank\bin\Debug\Problem2-Bank.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart2Homework\Problem2-Bank\bin\Debug\Problem2-Bank.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart2Homework\Problem2-Bank\obj\Debug\502. Problem2-Bank.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart2Homework\Problem2-Bank\obj\Debug\Problem2-Bank.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\OOPPrinciplesPart2Homework\Problem2-Bank\obj\Debug\Problem2-Bank.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\OOPPrinciplesPart2Homework\Problem2-Bank\bin\Debug\Problem2-Bank.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\OOPPrinciplesPart2Homework\Problem2-Bank\obj\Debug\Problem2-Bank.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\OOPPrinciplesPart2Homework\Problem2-Bank\obj\Debug\Problem2-Bank.pdb

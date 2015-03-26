@@ -1,0 +1,5 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\StudentsWithAge18-24\bin\Debug\StudentsWithAge18-24.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\StudentsWithAge18-24\bin\Debug\StudentsWithAge18-24.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\StudentsWithAge18-24\bin\Debug\StudentsWithAge18-24.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\StudentsWithAge18-24\obj\Debug\StudentsWithAge18-24.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\StudentsWithAge18-24\obj\Debug\StudentsWithAge18-24.pdb

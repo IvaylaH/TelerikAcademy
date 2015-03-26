@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\PrintNumbersDivisibleBy7And3\bin\Debug\PrintNumbersDivisibleBy7And3.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\PrintNumbersDivisibleBy7And3\bin\Debug\PrintNumbersDivisibleBy7And3.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\PrintNumbersDivisibleBy7And3\bin\Debug\PrintNumbersDivisibleBy7And3.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\PrintNumbersDivisibleBy7And3\obj\Debug\6. PrintNumbersDivisibleBy7And3.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\PrintNumbersDivisibleBy7And3\obj\Debug\PrintNumbersDivisibleBy7And3.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExtensionMethodsLinqQueriesDynamicHW\PrintNumbersDivisibleBy7And3\obj\Debug\PrintNumbersDivisibleBy7And3.pdb
