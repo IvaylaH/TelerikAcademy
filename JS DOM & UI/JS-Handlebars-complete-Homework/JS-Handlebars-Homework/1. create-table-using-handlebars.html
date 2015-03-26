@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>1. Create table using handlebars.js</title>
+    <link href="styles/1. create-table-using-handlebars.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1>Problem decription:</h1>
+    <p>1. Create the following using Handlebars.js</p>
+    <div id="container"></div>
+    <script src="libs/handlebars.js"></script>
+    <script id="table-template" type="text/x-handlebars-template">
+        <table id="lectures-table">
+            <thead>
+                <tr>
+                    <th>N</th>
+                    <th>Title</th>
+                    <th>Date #1</th>
+                    <th>Date #2</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{#each lectures}}
+                <tr>
+                    <td>{{@index}}</td>
+                    <td>{{title}}</td>
+                    <td>{{firstDate}}</td>
+                    <td>{{secondDate}}</td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </script>
+    <script src="scripts/1. create-table-using-handlebars.js"></script>
+</body>
+</html>

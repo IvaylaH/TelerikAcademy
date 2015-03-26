@@ -1,0 +1,6 @@
+C:\Users\ivayla\Desktop\JS-Handlebars-Homework\JS-Handlebars-Homework\bin\JS_Handlebars_Homework.dll.config
+C:\Users\ivayla\Desktop\JS-Handlebars-Homework\JS-Handlebars-Homework\bin\JS_Handlebars_Homework.dll
+C:\Users\ivayla\Desktop\JS-Handlebars-Homework\JS-Handlebars-Homework\bin\JS_Handlebars_Homework.pdb
+C:\Users\ivayla\Desktop\JS-Handlebars-Homework\JS-Handlebars-Homework\obj\Debug\JS_Handlebars_Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Desktop\JS-Handlebars-Homework\JS-Handlebars-Homework\obj\Debug\JS_Handlebars_Homework.dll
+C:\Users\ivayla\Desktop\JS-Handlebars-Homework\JS-Handlebars-Homework\obj\Debug\JS_Handlebars_Homework.pdb

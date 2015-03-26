@@ -1,0 +1,53 @@
+﻿body {
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 12px;
+}
+body #svg-container {
+  float: left;
+  position: absolute;
+}
+body #svg-js-container {
+  position: relative;
+  left: 600px;
+  top: 35px;
+}
+body #svg-container,
+body #svg-js-container {
+  width: 550px;
+  height: 450px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: 35px 100px;
+}
+body #svg-container #the-svg,
+body #svg-js-container #the-svg,
+body #svg-container #svg-js,
+body #svg-js-container #svg-js {
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: 50px 50px;
+  stroke-width: 2px;
+}
+body #svg-container #the-svg > text,
+body #svg-js-container #the-svg > text,
+body #svg-container #svg-js > text,
+body #svg-js-container #svg-js > text {
+  font-size: 18px;
+  font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+  font-weight: bold;
+}
+body #svg-container #the-svg #express,
+body #svg-js-container #the-svg #express,
+body #svg-container #svg-js #express,
+body #svg-js-container #svg-js #express {
+  letter-spacing: 2px;
+}
+body #svg-container #the-svg .letters,
+body #svg-js-container #the-svg .letters,
+body #svg-container #svg-js .letters,
+body #svg-js-container #svg-js .letters {
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+}
+/*# sourceMappingURL=1. mean.css.map */

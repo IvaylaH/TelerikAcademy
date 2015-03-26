@@ -1,0 +1,6 @@
+C:\Users\ivayla\Desktop\JS-Raphael-Homework\bin\JS_Raphael_Homework.dll.config
+C:\Users\ivayla\Desktop\JS-Raphael-Homework\bin\JS_Raphael_Homework.dll
+C:\Users\ivayla\Desktop\JS-Raphael-Homework\bin\JS_Raphael_Homework.pdb
+C:\Users\ivayla\Desktop\JS-Raphael-Homework\obj\Debug\JS_Raphael_Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Desktop\JS-Raphael-Homework\obj\Debug\JS_Raphael_Homework.dll
+C:\Users\ivayla\Desktop\JS-Raphael-Homework\obj\Debug\JS_Raphael_Homework.pdb

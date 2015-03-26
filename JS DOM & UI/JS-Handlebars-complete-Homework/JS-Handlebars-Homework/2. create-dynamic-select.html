@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>2. Create dynamic select element</title>
+    <link href="styles/2. create-dynamic-select.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <h1>Problem decription:</h1>
+    <p>2. Create a dynamic select using Handlebars.js</p>
+    <div id="container"></div>
+    <script src="libs/handlebars.js"></script>
+    <script id="select-template" type="text/x-handlebars-template">
+        <select id="list-of-songs">
+            {{#each options}}
+            <option value="{{value}}">{{content}}</option>
+            {{/each}}
+        </select>
+    </script>
+    <script src="scripts/2. create-dynamic-select.js"></script>
+</body>
+</html>

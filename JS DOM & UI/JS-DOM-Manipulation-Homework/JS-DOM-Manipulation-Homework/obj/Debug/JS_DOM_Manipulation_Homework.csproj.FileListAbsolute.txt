@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\JS-DOM-Manipulation-Homework\JS-DOM-Manipulation-Homework\bin\JS_DOM_Manipulation_Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\JS-DOM-Manipulation-Homework\JS-DOM-Manipulation-Homework\bin\JS_DOM_Manipulation_Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\JS-DOM-Manipulation-Homework\JS-DOM-Manipulation-Homework\bin\JS_DOM_Manipulation_Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\JS-DOM-Manipulation-Homework\JS-DOM-Manipulation-Homework\obj\Debug\JS_DOM_Manipulation_Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\JS-DOM-Manipulation-Homework\JS-DOM-Manipulation-Homework\obj\Debug\JS_DOM_Manipulation_Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\JS-DOM-Manipulation-Homework\JS-DOM-Manipulation-Homework\obj\Debug\JS_DOM_Manipulation_Homework.pdb

@@ -1,0 +1,15 @@
+﻿#wrapper {
+    border: 1px solid #000;
+    border-radius: 10px;
+    margin: 35px 50px;
+    padding: 15px;
+}
+#wrapper > h1{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Consolas, 'Lucida Console', 'DejaVu Sans Mono', monospace;
+    color: cornflowerblue;
+}
+
+

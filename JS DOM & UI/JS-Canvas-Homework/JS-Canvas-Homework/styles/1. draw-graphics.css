@@ -1,0 +1,24 @@
+﻿#original-pics {
+    border: 1px solid #000;
+    border-radius: 3px;
+    width: 750px;
+    height: 350px;
+}
+#man-img{
+    margin-right: 25px;
+}
+#bycicle-img{
+    margin-right: 25px;
+}
+#btn-draw-man{
+    width: 125px;
+    margin-left: 5px;
+}
+#btn-draw-bycicle{
+    width: 125px;
+    margin-left: 115px;
+}
+#btn-draw-house{
+    width: 125px;
+    margin-left: 175px;
+}

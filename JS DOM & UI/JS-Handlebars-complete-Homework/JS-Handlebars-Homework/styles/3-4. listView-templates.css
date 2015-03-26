@@ -1,0 +1,33 @@
+﻿body {
+  margin: 25px 35px;
+  font-family: Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+  font-size: 14px;
+}
+body h1 {
+  font-size: 18px;
+  text-decoration: underline;
+}
+body p{
+  padding-left: 15px;
+}
+table{
+    border: 2px solid cornflowerblue;
+}
+table th{
+    border-bottom: 2px solid cornflowerblue;
+    border-right: 1px solid cornflowerblue;
+    background-color: lightgray;
+}
+table th:last-of-type {
+    border-right: none;
+}
+table tr:nth-child(2n){
+    background-color: lightgray;
+}
+table td{
+    border-bottom: 2px solid cornflowerblue;
+    border-right: 1px solid cornflowerblue;
+}
+table td:last-of-type{
+    border-right: none;
+}

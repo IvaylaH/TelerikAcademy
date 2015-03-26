@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>1. Draw the graphics</title>
+    <link href="styles/1. draw-graphics.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <div id="wrapper">
+        <div id="original-pics">
+            <img id="man-img" src="images/man-with-cylinder.png" width="130" height="200" />
+            <img id="bycicle-img" src="images/bicycle.png" width="300" height="200" />
+            <img id="house-img" src="images/house.png" width="250" height="350" />
+        </div>
+        <br />
+        <div id="div-buttons">
+            <button id="btn-draw-man" onclick="DrawMan()">Draw the man</button>
+            <button id="btn-draw-bycicle" onclick="DrawBicycle()">Draw the bicycle</button>
+            <button id="btn-draw-house" onclick="DrawHouse()">Draw the house</button>
+        </div>
+        <br />
+        <canvas id="the-canvas" width="750" height="351"></canvas>
+        <script src="scripts/1. draw-graphics.js"></script>
+    </div>
+</body>
+</html>
