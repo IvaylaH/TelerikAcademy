@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>6. Quadratic equation</title>
+    <link href="Console/styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <!--6. Write a script that enters the coefficients a, b and c of a quadratic equation
+        a*x2 + b*x + c = 0
+        and calculates and prints its real roots. Note that quadratic equations may have 0, 1 or 2 real roots.-->
+    <div>
+        <label for="coefficientA">Please enter a real number for a, a = </label>
+        <input type="text" name="userInputA" id="coefficientA"/>
+    </div>
+    <div>
+        <label for="coefficientB">Please enter a real number for b, b = </label>
+        <input type="text" name="userInputB" id="coefficientB" />
+    </div>
+    <div>
+        <label for="coefficientC">Please enter a real number for c, c = </label>
+        <input type="text" name="userInputC" id="coefficientC" />
+    </div>
+    <button onclick="generateQuadraticEquation()">Generate equation</button>
+    <button onclick="calculateRealRoots()">Calculate real roots</button>
+
+    <div id="js-console"></div>
+    <script src="Console/script/js-console.js"></script>
+    <script src="scripts/6. quadratic-equation.js"></script>
+</body>
+</html>
