@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ConsoleInputOutpuHomework\SumWithAccuracy0.001\bin\Debug\SumWithAccuracy0.001.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ConsoleInputOutpuHomework\SumWithAccuracy0.001\bin\Debug\SumWithAccuracy0.001.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ConsoleInputOutpuHomework\SumWithAccuracy0.001\bin\Debug\SumWithAccuracy0.001.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ConsoleInputOutpuHomework\SumWithAccuracy0.001\obj\Debug\410.SumWithAccuracy.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ConsoleInputOutpuHomework\SumWithAccuracy0.001\obj\Debug\SumWithAccuracy0.001.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ConsoleInputOutpuHomework\SumWithAccuracy0.001\obj\Debug\SumWithAccuracy0.001.pdb

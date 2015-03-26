@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PrintMatrixFromN\bin\Debug\PrintMatrixFromN.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PrintMatrixFromN\bin\Debug\PrintMatrixFromN.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PrintMatrixFromN\bin\Debug\PrintMatrixFromN.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PrintMatrixFromN\obj\Debug\PrintMatrixFromN.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PrintMatrixFromN\obj\Debug\PrintMatrixFromN.pdb

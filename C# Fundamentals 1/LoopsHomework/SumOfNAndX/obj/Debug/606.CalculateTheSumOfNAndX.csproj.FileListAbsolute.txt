@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\SumOfNAndX\bin\Debug\SumOfNAndX.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\SumOfNAndX\bin\Debug\SumOfNAndX.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\SumOfNAndX\bin\Debug\SumOfNAndX.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\SumOfNAndX\obj\Debug\606.CalculateTheSumOfNAndX.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\SumOfNAndX\obj\Debug\SumOfNAndX.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\SumOfNAndX\obj\Debug\SumOfNAndX.pdb

@@ -1,0 +1,2 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\IntroductionToProgramingHomework\bin\Debug\IntroductionToProgramingHomework.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\IntroductionToProgramingHomework\IntroductionToProgramingHomework\bin\Debug\IntroductionToProgramingHomework.exe.config

@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\NthCatalanNumber\bin\Debug\NthCatalanNumber.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\NthCatalanNumber\bin\Debug\NthCatalanNumber.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\NthCatalanNumber\bin\Debug\NthCatalanNumber.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\NthCatalanNumber\obj\Debug\NthCatalanNumber.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\NthCatalanNumber\obj\Debug\NthCatalanNumber.pdb

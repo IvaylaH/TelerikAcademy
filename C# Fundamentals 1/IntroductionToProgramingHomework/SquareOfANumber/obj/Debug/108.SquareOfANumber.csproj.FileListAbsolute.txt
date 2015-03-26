@@ -1,0 +1,2 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\SquareOfANumber\bin\Debug\SquareOfANumber.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\IntroductionToProgramingHomework\SquareOfANumber\bin\Debug\SquareOfANumber.exe.config

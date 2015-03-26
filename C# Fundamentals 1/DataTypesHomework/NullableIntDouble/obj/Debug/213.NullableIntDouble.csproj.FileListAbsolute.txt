@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DataTypesHomework\NullableIntDouble\bin\Debug\NullableIntDouble.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DataTypesHomework\NullableIntDouble\bin\Debug\NullableIntDouble.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DataTypesHomework\NullableIntDouble\bin\Debug\NullableIntDouble.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DataTypesHomework\NullableIntDouble\obj\Debug\213.NullableIntDouble.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DataTypesHomework\NullableIntDouble\obj\Debug\NullableIntDouble.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\DataTypesHomework\NullableIntDouble\obj\Debug\NullableIntDouble.pdb

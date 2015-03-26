@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PlayingCardsNames\bin\Debug\PlayingCardsNames.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PlayingCardsNames\bin\Debug\PlayingCardsNames.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PlayingCardsNames\bin\Debug\PlayingCardsNames.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PlayingCardsNames\obj\Debug\611.PlayingCardsNames.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PlayingCardsNames\obj\Debug\PlayingCardsNames.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\PlayingCardsNames\obj\Debug\PlayingCardsNames.pdb

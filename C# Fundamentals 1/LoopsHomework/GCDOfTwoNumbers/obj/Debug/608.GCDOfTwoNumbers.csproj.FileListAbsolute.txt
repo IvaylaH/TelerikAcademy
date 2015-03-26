@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\GCDOfTwoNumbers\bin\Debug\GCDOfTwoNumbers.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\GCDOfTwoNumbers\bin\Debug\GCDOfTwoNumbers.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\GCDOfTwoNumbers\bin\Debug\GCDOfTwoNumbers.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\GCDOfTwoNumbers\obj\Debug\GCDOfTwoNumbers.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\GCDOfTwoNumbers\obj\Debug\GCDOfTwoNumbers.pdb

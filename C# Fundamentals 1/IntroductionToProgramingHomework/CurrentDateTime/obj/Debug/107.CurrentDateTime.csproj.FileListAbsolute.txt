@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\CurrentDateTime\obj\Debug\107.CurrentDateTime.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\IntroductionToProgramingHomework\CurrentDateTime\obj\Debug\CurrentDateTime.pdb

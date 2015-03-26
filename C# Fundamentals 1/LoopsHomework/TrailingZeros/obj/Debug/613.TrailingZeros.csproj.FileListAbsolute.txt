@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\TrailingZeros\bin\Debug\TrailingZeros.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\TrailingZeros\bin\Debug\TrailingZeros.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\TrailingZeros\bin\Debug\TrailingZeros.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\TrailingZeros\obj\Debug\TrailingZeros.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\TrailingZeros\obj\Debug\TrailingZeros.pdb

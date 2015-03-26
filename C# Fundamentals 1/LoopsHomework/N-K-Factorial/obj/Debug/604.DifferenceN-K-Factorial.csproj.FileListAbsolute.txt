@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\N-K-Factorial\bin\Debug\N-K-Factorial.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\N-K-Factorial\bin\Debug\N-K-Factorial.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\N-K-Factorial\bin\Debug\N-K-Factorial.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\N-K-Factorial\obj\Debug\604.DifferenceN-K-Factorial.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\N-K-Factorial\obj\Debug\N-K-Factorial.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\N-K-Factorial\obj\Debug\N-K-Factorial.pdb

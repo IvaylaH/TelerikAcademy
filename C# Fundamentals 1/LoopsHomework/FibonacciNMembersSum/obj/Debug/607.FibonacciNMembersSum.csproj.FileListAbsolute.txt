@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\FibonacciNMembersSum\bin\Debug\FibonacciNMembersSum.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\FibonacciNMembersSum\bin\Debug\FibonacciNMembersSum.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\FibonacciNMembersSum\bin\Debug\FibonacciNMembersSum.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\FibonacciNMembersSum\obj\Debug\FibonacciNMembersSum.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\LoopsHomework\FibonacciNMembersSum\obj\Debug\FibonacciNMembersSum.pdb
