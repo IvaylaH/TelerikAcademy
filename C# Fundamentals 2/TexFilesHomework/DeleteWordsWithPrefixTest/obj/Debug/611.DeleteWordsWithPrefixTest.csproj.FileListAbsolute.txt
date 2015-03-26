@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteWordsWithPrefixTest\obj\Debug\611.DeleteWordsWithPrefixTest.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteWordsWithPrefixTest\bin\Debug\DeleteWordsWithPrefixTest.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteWordsWithPrefixTest\bin\Debug\DeleteWordsWithPrefixTest.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteWordsWithPrefixTest\bin\Debug\DeleteWordsWithPrefixTest.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteWordsWithPrefixTest\obj\Debug\DeleteWordsWithPrefixTest.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteWordsWithPrefixTest\obj\Debug\DeleteWordsWithPrefixTest.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\DeleteWordsWithPrefixTest\bin\Debug\DeleteWordsWithPrefixTest.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\DeleteWordsWithPrefixTest\obj\Debug\DeleteWordsWithPrefixTest.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\DeleteWordsWithPrefixTest\obj\Debug\DeleteWordsWithPrefixTest.pdb

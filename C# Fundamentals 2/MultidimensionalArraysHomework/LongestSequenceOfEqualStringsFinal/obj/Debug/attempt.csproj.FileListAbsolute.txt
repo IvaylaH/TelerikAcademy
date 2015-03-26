@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\attempt\bin\Debug\attempt.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\attempt\bin\Debug\attempt.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\attempt\bin\Debug\attempt.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\attempt\obj\Debug\attempt.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\attempt\obj\Debug\attempt.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\attempt\obj\Debug\attempt.pdb

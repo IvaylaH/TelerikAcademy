@@ -1,0 +1,9 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumOfKElementsOfAnArray\bin\Debug\MaxSumOfKElementsOfAnArray.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumOfKElementsOfAnArray\bin\Debug\MaxSumOfKElementsOfAnArray.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumOfKElementsOfAnArray\bin\Debug\MaxSumOfKElementsOfAnArray.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumOfKElementsOfAnArray\obj\Debug\106.MaxSumOfKElementsOfAnArray.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumOfKElementsOfAnArray\obj\Debug\MaxSumOfKElementsOfAnArray.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumOfKElementsOfAnArray\obj\Debug\MaxSumOfKElementsOfAnArray.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MaxSumOfKElementsOfAnArray\bin\Debug\MaxSumOfKElementsOfAnArray.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MaxSumOfKElementsOfAnArray\obj\Debug\MaxSumOfKElementsOfAnArray.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MaxSumOfKElementsOfAnArray\obj\Debug\MaxSumOfKElementsOfAnArray.pdb

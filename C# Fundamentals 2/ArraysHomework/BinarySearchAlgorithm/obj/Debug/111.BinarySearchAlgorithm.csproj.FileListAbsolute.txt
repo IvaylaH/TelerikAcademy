@@ -1,0 +1,12 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\BinarySearchAlgorithm\obj\Debug\111.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\BinarySearchAlgorithm\bin\Debug\BinarySearchAlgorithm.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\BinarySearchAlgorithm\obj\Debug\111.BinarySearchAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\BinarySearchAlgorithm\obj\Debug\BinarySearchAlgorithm.pdb

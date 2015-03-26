@@ -1,0 +1,8 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ComparisonOf2Arrays\bin\Debug\ComparisonOf2Arrays.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ComparisonOf2Arrays\bin\Debug\ComparisonOf2Arrays.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ComparisonOf2Arrays\bin\Debug\ComparisonOf2Arrays.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ComparisonOf2Arrays\obj\Debug\ComparisonOf2Arrays.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ComparisonOf2Arrays\obj\Debug\ComparisonOf2Arrays.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\ComparisonOf2Arrays\bin\Debug\ComparisonOf2Arrays.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\ComparisonOf2Arrays\obj\Debug\ComparisonOf2Arrays.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\ComparisonOf2Arrays\obj\Debug\ComparisonOf2Arrays.pdb

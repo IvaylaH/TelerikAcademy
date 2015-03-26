@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\MultidimensionalArraysHomework\PrintMatrix4DifferentWays\bin\Debug\PrintMatrix4DifferentWays.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\MultidimensionalArraysHomework\PrintMatrix4DifferentWays\bin\Debug\PrintMatrix4DifferentWays.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\MultidimensionalArraysHomework\PrintMatrix4DifferentWays\bin\Debug\PrintMatrix4DifferentWays.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\MultidimensionalArraysHomework\PrintMatrix4DifferentWays\obj\Debug\201.PrintMatrix4DifferentWays.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\MultidimensionalArraysHomework\PrintMatrix4DifferentWays\obj\Debug\PrintMatrix4DifferentWays.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\MultidimensionalArraysHomework\PrintMatrix4DifferentWays\obj\Debug\PrintMatrix4DifferentWays.pdb

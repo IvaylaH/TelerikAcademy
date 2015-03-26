@@ -1,0 +1,9 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ArrayOf20Ints\bin\Debug\ArrayOf20Ints.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ArrayOf20Ints\bin\Debug\ArrayOf20Ints.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ArrayOf20Ints\bin\Debug\ArrayOf20Ints.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ArrayOf20Ints\obj\Debug\101.ArrayOf20Ints.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ArrayOf20Ints\obj\Debug\ArrayOf20Ints.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\ArrayOf20Ints\obj\Debug\ArrayOf20Ints.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\ArrayOf20Ints\bin\Debug\ArrayOf20Ints.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\ArrayOf20Ints\obj\Debug\ArrayOf20Ints.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\ArrayOf20Ints\obj\Debug\ArrayOf20Ints.pdb

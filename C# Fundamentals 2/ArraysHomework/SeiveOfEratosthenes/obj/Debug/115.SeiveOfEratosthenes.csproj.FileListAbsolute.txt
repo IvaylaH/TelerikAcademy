@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SeiveOfEratosthenes\bin\Debug\SeiveOfEratosthenes.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SeiveOfEratosthenes\bin\Debug\SeiveOfEratosthenes.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SeiveOfEratosthenes\bin\Debug\SeiveOfEratosthenes.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SeiveOfEratosthenes\obj\Debug\115.SeiveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SeiveOfEratosthenes\obj\Debug\SeiveOfEratosthenes.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SeiveOfEratosthenes\obj\Debug\SeiveOfEratosthenes.pdb

@@ -1,0 +1,1 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\UsingClassesAndObjectsHomework\CheckIfLeapYear\bin\Debug\CheckIfLeapYear.exe.config

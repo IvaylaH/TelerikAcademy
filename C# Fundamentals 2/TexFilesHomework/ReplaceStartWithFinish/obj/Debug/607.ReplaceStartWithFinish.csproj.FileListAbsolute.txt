@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartWithFinish\bin\Debug\ReplaceStartWithFinish.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartWithFinish\bin\Debug\ReplaceStartWithFinish.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartWithFinish\bin\Debug\ReplaceStartWithFinish.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartWithFinish\obj\Debug\607.ReplaceStartWithFinish.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartWithFinish\obj\Debug\ReplaceStartWithFinish.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartWithFinish\obj\Debug\ReplaceStartWithFinish.pdb

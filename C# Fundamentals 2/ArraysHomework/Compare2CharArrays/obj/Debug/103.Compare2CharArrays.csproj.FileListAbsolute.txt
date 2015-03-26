@@ -1,0 +1,9 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\Compare2CharArrays\bin\Debug\Compare2CharArrays.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\Compare2CharArrays\bin\Debug\Compare2CharArrays.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\Compare2CharArrays\bin\Debug\Compare2CharArrays.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\Compare2CharArrays\obj\Debug\103.Compare2CharArrays.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\Compare2CharArrays\obj\Debug\Compare2CharArrays.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\Compare2CharArrays\obj\Debug\Compare2CharArrays.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\Compare2CharArrays\bin\Debug\Compare2CharArrays.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\Compare2CharArrays\obj\Debug\Compare2CharArrays.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\Compare2CharArrays\obj\Debug\Compare2CharArrays.pdb

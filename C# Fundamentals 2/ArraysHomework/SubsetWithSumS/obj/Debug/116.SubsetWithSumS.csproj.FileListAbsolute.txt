@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetWithSumS\bin\Debug\SubsetWithSumS.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetWithSumS\bin\Debug\SubsetWithSumS.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetWithSumS\bin\Debug\SubsetWithSumS.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetWithSumS\obj\Debug\116.SubsetWithSumS.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetWithSumS\obj\Debug\SubsetWithSumS.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetWithSumS\obj\Debug\SubsetWithSumS.pdb

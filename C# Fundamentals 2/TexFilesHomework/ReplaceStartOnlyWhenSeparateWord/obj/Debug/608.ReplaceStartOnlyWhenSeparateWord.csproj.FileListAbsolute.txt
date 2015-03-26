@@ -1,0 +1,8 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\bin\Debug\ReplaceStartOnlyWhenSeparateWord.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\bin\Debug\ReplaceStartOnlyWhenSeparateWord.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\bin\Debug\ReplaceStartOnlyWhenSeparateWord.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\obj\Debug\ReplaceStartOnlyWhenSeparateWord.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\obj\Debug\ReplaceStartOnlyWhenSeparateWord.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\bin\Debug\ReplaceStartOnlyWhenSeparateWord.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\obj\Debug\ReplaceStartOnlyWhenSeparateWord.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\ReplaceStartOnlyWhenSeparateWord\obj\Debug\ReplaceStartOnlyWhenSeparateWord.pdb

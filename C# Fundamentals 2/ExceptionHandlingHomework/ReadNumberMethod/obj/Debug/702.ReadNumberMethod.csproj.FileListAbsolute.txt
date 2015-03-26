@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\ReadNumberMethod\bin\Debug\ReadNumberMethod.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\ReadNumberMethod\bin\Debug\ReadNumberMethod.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\ReadNumberMethod\bin\Debug\ReadNumberMethod.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\ReadNumberMethod\obj\Debug\702.ReadNumberMethod.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\ReadNumberMethod\obj\Debug\ReadNumberMethod.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\ReadNumberMethod\obj\Debug\ReadNumberMethod.pdb

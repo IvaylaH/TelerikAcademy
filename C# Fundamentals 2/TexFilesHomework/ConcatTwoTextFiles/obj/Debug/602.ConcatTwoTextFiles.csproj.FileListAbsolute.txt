@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ConcatTwoTextFiles\bin\Debug\ConcatTwoTextFiles.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ConcatTwoTextFiles\bin\Debug\ConcatTwoTextFiles.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ConcatTwoTextFiles\bin\Debug\ConcatTwoTextFiles.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ConcatTwoTextFiles\obj\Debug\602.ConcatTwoTextFiles.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ConcatTwoTextFiles\obj\Debug\ConcatTwoTextFiles.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ConcatTwoTextFiles\obj\Debug\ConcatTwoTextFiles.pdb

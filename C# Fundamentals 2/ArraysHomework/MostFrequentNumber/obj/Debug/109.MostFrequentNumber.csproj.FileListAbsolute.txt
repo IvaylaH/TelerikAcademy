@@ -1,0 +1,12 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MostFrequentNumber\obj\Debug\109.MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MostFrequentNumber\obj\Debug\109.MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

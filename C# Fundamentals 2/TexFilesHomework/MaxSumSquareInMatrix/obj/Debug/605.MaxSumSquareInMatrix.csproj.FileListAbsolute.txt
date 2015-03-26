@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\MaxSumSquareInMatrix\obj\Debug\605.MaxSumSquareInMatrix.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\MaxSumSquareInMatrix\bin\Debug\MaxSumSquareInMatrix.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\MaxSumSquareInMatrix\bin\Debug\MaxSumSquareInMatrix.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\MaxSumSquareInMatrix\bin\Debug\MaxSumSquareInMatrix.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\MaxSumSquareInMatrix\obj\Debug\MaxSumSquareInMatrix.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\MaxSumSquareInMatrix\obj\Debug\MaxSumSquareInMatrix.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\MaxSumSquareInMatrix\bin\Debug\MaxSumSquareInMatrix.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\MaxSumSquareInMatrix\obj\Debug\MaxSumSquareInMatrix.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\MaxSumSquareInMatrix\obj\Debug\MaxSumSquareInMatrix.pdb

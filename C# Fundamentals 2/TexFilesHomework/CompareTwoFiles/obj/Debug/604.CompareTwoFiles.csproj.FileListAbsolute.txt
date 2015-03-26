@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\CompareTwoFiles\bin\Debug\CompareTwoFiles.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\CompareTwoFiles\bin\Debug\CompareTwoFiles.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\CompareTwoFiles\bin\Debug\CompareTwoFiles.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\CompareTwoFiles\obj\Debug\604.CompareTwoFiles.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\CompareTwoFiles\obj\Debug\CompareTwoFiles.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\CompareTwoFiles\obj\Debug\CompareTwoFiles.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\CompareTwoFiles\bin\Debug\CompareTwoFiles.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\CompareTwoFiles\obj\Debug\CompareTwoFiles.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\CompareTwoFiles\obj\Debug\CompareTwoFiles.pdb

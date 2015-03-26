@@ -1,0 +1,8 @@
+The program will start reading ME any minute now.
+I just need to wait a few seconds for the program to start.
+This is the third line we'll read in this file.
+one let's see some words containing "start" -> startling, startlingly, starter
+and then some phrases -> start reading, start writing, start smiling, start dreaming, 
+start dreaming BIG, just start
+
+Our text will "finish" with one final start -> start.

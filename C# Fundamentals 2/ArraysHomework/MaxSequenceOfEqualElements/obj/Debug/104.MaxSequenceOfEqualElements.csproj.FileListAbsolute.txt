@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSequenceOfEqualElements\obj\Debug\104.MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

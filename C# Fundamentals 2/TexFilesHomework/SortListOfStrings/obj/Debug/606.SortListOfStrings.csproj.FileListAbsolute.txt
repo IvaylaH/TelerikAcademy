@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\SortListOfStrings\bin\Debug\SortListOfStrings.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\SortListOfStrings\bin\Debug\SortListOfStrings.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\SortListOfStrings\bin\Debug\SortListOfStrings.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\SortListOfStrings\obj\Debug\606.SortListOfStrings.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\SortListOfStrings\obj\Debug\SortListOfStrings.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\SortListOfStrings\obj\Debug\SortListOfStrings.pdb

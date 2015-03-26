@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\bin\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\bin\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\bin\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\obj\Debug\612.RemoveAllMAtchingWordsBetweenTwoFiles.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\obj\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\obj\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\bin\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\obj\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\RemoveAllMAtchingWordsBetweenTwoFiles\obj\Debug\RemoveAllMAtchingWordsBetweenTwoFiles.pdb

@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\CalculateSqrt\bin\Debug\CalculateSqrt.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\CalculateSqrt\bin\Debug\CalculateSqrt.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\CalculateSqrt\bin\Debug\CalculateSqrt.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\CalculateSqrt\obj\Debug\701.CalculateSqrt.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\CalculateSqrt\obj\Debug\CalculateSqrt.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\CalculateSqrt\obj\Debug\CalculateSqrt.pdb

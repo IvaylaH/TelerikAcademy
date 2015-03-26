@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SelectionSortAlgorithm\bin\Debug\SelectionSortAlgorithm.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SelectionSortAlgorithm\bin\Debug\SelectionSortAlgorithm.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SelectionSortAlgorithm\bin\Debug\SelectionSortAlgorithm.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SelectionSortAlgorithm\obj\Debug\107.SelectionSortAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SelectionSortAlgorithm\obj\Debug\SelectionSortAlgorithm.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SelectionSortAlgorithm\obj\Debug\SelectionSortAlgorithm.pdb

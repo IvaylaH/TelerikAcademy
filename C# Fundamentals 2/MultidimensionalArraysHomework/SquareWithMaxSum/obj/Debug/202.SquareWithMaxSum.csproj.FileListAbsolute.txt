@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SquareWithMaxSum\bin\Debug\SquareWithMaxSum.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SquareWithMaxSum\bin\Debug\SquareWithMaxSum.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SquareWithMaxSum\bin\Debug\SquareWithMaxSum.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SquareWithMaxSum\obj\Debug\SquareWithMaxSum.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SquareWithMaxSum\obj\Debug\SquareWithMaxSum.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SquareWithMaxSum\obj\Debug\202.SquareWithMaxSum.csprojResolveAssemblyReference.cache

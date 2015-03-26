@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumWithOneForLoop\bin\Debug\MaxSumWithOneForLoop.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumWithOneForLoop\bin\Debug\MaxSumWithOneForLoop.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumWithOneForLoop\bin\Debug\MaxSumWithOneForLoop.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumWithOneForLoop\obj\Debug\108.MaxSumWithSingleLoop.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumWithOneForLoop\obj\Debug\MaxSumWithOneForLoop.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\MaxSumWithOneForLoop\obj\Debug\MaxSumWithOneForLoop.pdb

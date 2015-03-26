@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\DownloadingFromTheInternet\bin\Debug\DownloadingFromTheInternet.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\DownloadingFromTheInternet\bin\Debug\DownloadingFromTheInternet.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\DownloadingFromTheInternet\bin\Debug\DownloadingFromTheInternet.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\DownloadingFromTheInternet\obj\Debug\704.DownloadingFromTheInternet.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\DownloadingFromTheInternet\obj\Debug\DownloadingFromTheInternet.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\ExceptionHandlingHomework\DownloadingFromTheInternet\obj\Debug\DownloadingFromTheInternet.pdb

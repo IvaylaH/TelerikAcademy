@@ -1,0 +1,1 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\RemoveMinElementsToSort\bin\Debug\RemoveMinElementsToSort.exe.config

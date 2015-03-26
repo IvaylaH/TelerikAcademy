@@ -1,0 +1,5 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteAllOddLines\bin\Debug\DeleteAllOddLines.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteAllOddLines\bin\Debug\DeleteAllOddLines.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteAllOddLines\bin\Debug\DeleteAllOddLines.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteAllOddLines\obj\Debug\DeleteAllOddLines.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\DeleteAllOddLines\obj\Debug\DeleteAllOddLines.pdb

@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\PrintOddLines\bin\Debug\PrintOddLines.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\PrintOddLines\bin\Debug\PrintOddLines.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\PrintOddLines\bin\Debug\PrintOddLines.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\PrintOddLines\obj\Debug\601.PrintOddLines.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\PrintOddLines\obj\Debug\PrintOddLines.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\PrintOddLines\obj\Debug\PrintOddLines.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\PrintOddLines\bin\Debug\PrintOddLines.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\PrintOddLines\obj\Debug\PrintOddLines.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\PrintOddLines\obj\Debug\PrintOddLines.pdb

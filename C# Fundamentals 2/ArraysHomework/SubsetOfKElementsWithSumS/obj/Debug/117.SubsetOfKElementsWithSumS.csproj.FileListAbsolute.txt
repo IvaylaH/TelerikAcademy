@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetOfKElementsWithSumS\bin\Debug\SubsetOfKElementsWithSumS.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetOfKElementsWithSumS\bin\Debug\SubsetOfKElementsWithSumS.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetOfKElementsWithSumS\bin\Debug\SubsetOfKElementsWithSumS.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetOfKElementsWithSumS\obj\Debug\117.SubsetOfKElementsWithSumS.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetOfKElementsWithSumS\obj\Debug\SubsetOfKElementsWithSumS.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\ArraysHomework\SubsetOfKElementsWithSumS\obj\Debug\SubsetOfKElementsWithSumS.pdb

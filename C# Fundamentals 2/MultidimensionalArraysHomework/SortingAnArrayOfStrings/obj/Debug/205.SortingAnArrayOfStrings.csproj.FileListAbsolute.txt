@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SortingAnArrayOfStrings\bin\Debug\SortingAnArrayOfStrings.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SortingAnArrayOfStrings\bin\Debug\SortingAnArrayOfStrings.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SortingAnArrayOfStrings\bin\Debug\SortingAnArrayOfStrings.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SortingAnArrayOfStrings\obj\Debug\205.SortingAnArrayOfStrings.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SortingAnArrayOfStrings\obj\Debug\SortingAnArrayOfStrings.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\SortingAnArrayOfStrings\obj\Debug\SortingAnArrayOfStrings.pdb

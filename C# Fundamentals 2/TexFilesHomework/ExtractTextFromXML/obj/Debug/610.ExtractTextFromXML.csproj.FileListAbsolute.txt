@@ -1,0 +1,9 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ExtractTextFromXML\obj\Debug\610.ExtractTextFromXML.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.exe
+c:\users\ivayla\documents\visual studio 2013\Projects\TexFilesHomework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\ExtractTextFromXML\bin\Debug\ExtractTextFromXML.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Homeworks\TexFilesHomework\ExtractTextFromXML\obj\Debug\ExtractTextFromXML.pdb

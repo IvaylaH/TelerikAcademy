@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SequenceWithGivenSumS\bin\Debug\SequenceWithGivenSumS.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SequenceWithGivenSumS\bin\Debug\SequenceWithGivenSumS.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SequenceWithGivenSumS\bin\Debug\SequenceWithGivenSumS.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SequenceWithGivenSumS\obj\Debug\110.SequenceWithGivenSumS.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SequenceWithGivenSumS\obj\Debug\SequenceWithGivenSumS.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\ArraysHomework\SequenceWithGivenSumS\obj\Debug\SequenceWithGivenSumS.pdb

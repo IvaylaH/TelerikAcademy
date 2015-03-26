@@ -1,0 +1,5 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\LongestSequenceOfEqualStrings\bin\Debug\LongestSequenceOfEqualStrings.exe.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\LongestSequenceOfEqualStrings\bin\Debug\LongestSequenceOfEqualStrings.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\LongestSequenceOfEqualStrings\bin\Debug\LongestSequenceOfEqualStrings.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\LongestSequenceOfEqualStrings\obj\Debug\LongestSequenceOfEqualStrings.exe
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\MultidimensionalArraysHomework\LongestSequenceOfEqualStrings\obj\Debug\LongestSequenceOfEqualStrings.pdb
