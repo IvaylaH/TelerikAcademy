@@ -1,0 +1,55 @@
+﻿body {
+  width: 1500px;
+  height: 700px;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+}
+body #problem-description {
+  text-align: center;
+}
+body #problem-description h3 {
+  text-decoration: underline;
+}
+body #problem-description ul {
+  list-style: none;
+}
+body .drop-down-list {
+  margin: 10px 580px;
+  position: relative;
+  border: 1px solid #000;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+body .drop-down-list .person-item {
+  padding: 10px 25px;
+}
+body .drop-down-list .person-item strong,
+body .drop-down-list .person-item p {
+  position: absolute;
+  float: left;
+  left: 185px;
+}
+body .drop-down-list .person-item img {
+  border-radius: 5px;
+}
+body .drop-down-list .person-item:hover {
+  background-color: moccasin;
+}
+body .drop-down-list .person-item.selected {
+  background-color: cornflowerblue;
+}
+body .drop-down-list .person-item.selected strong,
+body .drop-down-list .person-item.selected p {
+  color: #fff;
+  position: absolute;
+  float: left;
+  left: 185px;
+}
+body .drop-down-list .person-item.selected img {
+  border-radius: 5px;
+}
+body .drop-down-list .person-item.selected,
+body .drop-down-list .person-item:first-of-type {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+/*# sourceMappingURL=1. comboBox-styles.css.map */

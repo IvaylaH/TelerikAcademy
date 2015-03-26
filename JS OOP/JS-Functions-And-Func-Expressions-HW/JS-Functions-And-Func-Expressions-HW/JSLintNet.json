@@ -1,0 +1,6 @@
+﻿{
+  "ignore": [
+    "\\scripts\\1. domModule.js",
+    "\\scripts\\3. module-to-work-with-console-obj.js"
+  ]
+}

@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="wrapper">
+        <h3>3. Create a module to work with the console object. Implement functionality for:</h3>
+        <ul>
+            <li>Writing a line to the console</li>
+            <li>Writing a line to the console using a format</li>
+            <li>Writing to the console should call toString() to each element</li>
+            <li>Writing errors and warnings to the console with and without format</li>
+        </ul>
+    </div>
+    <p>To check if the program runs correclty please press F12 and check the Console</p>
+    <script src="scripts/3. module-to-work-with-console-obj.js"></script>
+    <script>
+        specialeConsole.writeLine('Hello from my specialConsole!');
+        specialeConsole.writeLine('Hello {0}! I am {1}. Nice to meet you!', 'user', 'SpeacialConsole');
+        specialeConsole.writeError('Huston, we have a problem!');
+        specialeConsole.writeWaring('Stop {0}! Or you will {1} something stupid!', 'speaking', 'say');
+    </script>
+</body>
+</html>

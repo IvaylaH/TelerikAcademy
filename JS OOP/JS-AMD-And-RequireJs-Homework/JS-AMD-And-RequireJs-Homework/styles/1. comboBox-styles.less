@@ -1,0 +1,64 @@
+﻿body {
+    width: 1500px;
+    height: 700px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'DejaVu Sans Condensed', sans-serif;
+
+    #problem-description{
+        text-align: center;
+
+        h3{
+            text-decoration: underline;
+        }
+
+        ul{
+            list-style: none
+        }
+    }
+
+    .drop-down-list{
+        margin: 10px 580px;
+        position: relative;
+        border: 1px solid #000;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+
+        .person-item{
+            padding: 10px 25px;
+
+            strong, p{
+                position: absolute;
+                float: left;
+                left: 185px;
+            }
+
+            img{
+                border-radius: 5px;
+            }
+
+        }
+
+        .person-item:hover{
+            background-color: moccasin;
+        }
+
+        .person-item.selected{
+            background-color: cornflowerblue;
+
+            strong, p{
+                color: #fff;
+                position: absolute;
+                float: left;
+                left: 185px;
+            }  
+
+            img{
+                border-radius: 5px;
+            }
+        }
+
+        .person-item.selected, .person-item:first-of-type{
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+    }
+}

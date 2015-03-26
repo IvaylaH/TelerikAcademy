@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>1. Create a module for drawing shapes using Canvas</title>
+</head>
+<body>
+    <h3>1. Create a module for drawing shapes using Canvas. Implement the following shapes:</h3>
+    <ul>
+        <li>Rect, by given position (X, Y) and size (Width, Height)</li>
+        <li>Circle, by given center position (X, Y) and radius (R)</li>
+        <li>Line, by given from (X1, Y1) and to (X2, Y2) positions</li>
+    </ul>
+    <button id="draw-rect">Draw Rect</button>
+    <button id="draw-circle">Draw Circle</button>
+    <button id="draw-line">Draw Line</button>
+    <canvas id="the-canvas" width="850" height="450"></canvas>
+    <div id="wrapper"></div>
+    <script src="1. module-for-drawing-shapes.js"></script>
+    <script>
+        var rectBtn = document.querySelector('#draw-rect'),
+            circleBtn = document.querySelector('#draw-circle'),
+            lineBtn = document.querySelector('#draw-line');
+
+        var drawer = new CanvasDrawer('#the-canvas');
+            
+        var shapes = new Shapes();
+
+        function drawRect() {
+            var rect = shapes.Rect(100, 150, 150, 250);
+            drawer.drawRect(rect);
+        }
+
+        function drawCircle() {
+            var circle = shapes.Circle(400, 300, 100);
+            drawer.drawCircle(circle);
+        }
+
+        function drawLine() {
+            var line = shapes.Line(550, 400, 700, 150);
+            drawer.drawLine(line);
+        }
+
+        rectBtn.addEventListener('click', drawRect, false);
+        circleBtn.addEventListener('click', drawCircle, false);
+        lineBtn.addEventListener('click', drawLine, false);
+    </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>2. Create a module for moving Divs around</title>
+</head>
+<body>
+    <!--as a basis I've used the solution of "anilak" from the forum but have changed some things-->
+    <div id="wrapper">
+        <h3>2. Create a module that works with moving div nodes. Implement functionality for:</h3>
+        <ul>
+            <li>Add new moving div element to the DOM</li>
+            <li>The movements of the div nodes can be either circular or rectangular</li>
+            <li>The elements should be moving all the time</li>
+        </ul>
+    </div>
+    <a href="#" id="rect-move">Start Rectangular Movement</a>
+    <a href="#" id="ellip-move">Start Elliptical Movement</a>
+    <div id="moving-divs"></div>
+    <script src="scripts/2. module-for-moving-divs.js"></script>
+    <script>
+        var rectBtn = document.querySelector('#rect-move'),
+            ellipseBtn = document.querySelector('#ellip-move');
+
+        rectBtn.addEventListener('click', startRectMovement, false);
+        ellipseBtn.addEventListener('click', startEllipMovement, false);
+
+        function startRectMovement() {
+            movingShapes.add('rect');
+        }
+
+        function startEllipMovement() {
+            movingShapes.add('ellipse');
+        }
+    </script>
+</body>
+</html>

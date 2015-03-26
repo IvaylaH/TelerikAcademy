@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JS_Functions_And_Func_Expressions_HW", "JS-Functions-And-Func-Expressions-HW\JS_Functions_And_Func_Expressions_HW.csproj", "{DC59FF06-6FDD-4B0B-9F63-CA03E18DF813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC59FF06-6FDD-4B0B-9F63-CA03E18DF813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC59FF06-6FDD-4B0B-9F63-CA03E18DF813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC59FF06-6FDD-4B0B-9F63-CA03E18DF813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC59FF06-6FDD-4B0B-9F63-CA03E18DF813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

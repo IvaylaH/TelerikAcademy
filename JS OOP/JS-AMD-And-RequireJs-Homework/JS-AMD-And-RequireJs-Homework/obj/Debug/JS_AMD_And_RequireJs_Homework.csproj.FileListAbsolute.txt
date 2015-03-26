@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-AMD-And-RequireJs-Homework\JS-AMD-And-RequireJs-Homework\bin\JS_AMD_And_RequireJs_Homework.dll.config
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-AMD-And-RequireJs-Homework\JS-AMD-And-RequireJs-Homework\bin\JS_AMD_And_RequireJs_Homework.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-AMD-And-RequireJs-Homework\JS-AMD-And-RequireJs-Homework\bin\JS_AMD_And_RequireJs_Homework.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-AMD-And-RequireJs-Homework\JS-AMD-And-RequireJs-Homework\obj\Debug\JS_AMD_And_RequireJs_Homework.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-AMD-And-RequireJs-Homework\JS-AMD-And-RequireJs-Homework\obj\Debug\JS_AMD_And_RequireJs_Homework.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-AMD-And-RequireJs-Homework\JS-AMD-And-RequireJs-Homework\obj\Debug\JS_AMD_And_RequireJs_Homework.pdb

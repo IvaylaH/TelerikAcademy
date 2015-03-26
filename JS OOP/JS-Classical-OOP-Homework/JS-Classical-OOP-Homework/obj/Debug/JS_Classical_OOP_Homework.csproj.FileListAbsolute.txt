@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Classical-OOP-Homework\JS-Classical-OOP-Homework\bin\JS_Classical_OOP_Homework.dll.config
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Classical-OOP-Homework\JS-Classical-OOP-Homework\bin\JS_Classical_OOP_Homework.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Classical-OOP-Homework\JS-Classical-OOP-Homework\bin\JS_Classical_OOP_Homework.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Classical-OOP-Homework\JS-Classical-OOP-Homework\obj\Debug\JS_Classical_OOP_Homework.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Classical-OOP-Homework\JS-Classical-OOP-Homework\obj\Debug\JS_Classical_OOP_Homework.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Classical-OOP-Homework\JS-Classical-OOP-Homework\obj\Debug\JS_Classical_OOP_Homework.pdb

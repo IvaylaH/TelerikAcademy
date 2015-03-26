@@ -1,0 +1,6 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Functions-And-Func-Expressions-HW\JS-Functions-And-Func-Expressions-HW\bin\JS_Functions_And_Func_Expressions_HW.dll.config
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Functions-And-Func-Expressions-HW\JS-Functions-And-Func-Expressions-HW\bin\JS_Functions_And_Func_Expressions_HW.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Functions-And-Func-Expressions-HW\JS-Functions-And-Func-Expressions-HW\bin\JS_Functions_And_Func_Expressions_HW.pdb
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Functions-And-Func-Expressions-HW\JS-Functions-And-Func-Expressions-HW\obj\Debug\JS_Functions_And_Func_Expressions_HW.csprojResolveAssemblyReference.cache
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Functions-And-Func-Expressions-HW\JS-Functions-And-Func-Expressions-HW\obj\Debug\JS_Functions_And_Func_Expressions_HW.dll
+c:\users\ivayla\documents\visual studio 2013\Projects\JS-Functions-And-Func-Expressions-HW\JS-Functions-And-Func-Expressions-HW\obj\Debug\JS_Functions_And_Func_Expressions_HW.pdb
