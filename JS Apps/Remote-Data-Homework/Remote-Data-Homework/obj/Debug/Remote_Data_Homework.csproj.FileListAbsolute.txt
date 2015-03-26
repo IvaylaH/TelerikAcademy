@@ -1,0 +1,6 @@
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Remote-Data-Homework\Remote-Data-Homework\bin\Remote_Data_Homework.dll.config
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Remote-Data-Homework\Remote-Data-Homework\bin\Remote_Data_Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Remote-Data-Homework\Remote-Data-Homework\bin\Remote_Data_Homework.pdb
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Remote-Data-Homework\Remote-Data-Homework\obj\Debug\Remote_Data_Homework.csprojResolveAssemblyReference.cache
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Remote-Data-Homework\Remote-Data-Homework\obj\Debug\Remote_Data_Homework.dll
+C:\Users\ivayla\Documents\Visual Studio 2013\Projects\Remote-Data-Homework\Remote-Data-Homework\obj\Debug\Remote_Data_Homework.pdb
